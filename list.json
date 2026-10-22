@@ -28,7 +28,33 @@
       },
       "addedAt": "2026-10-22T18:21:20Z",
       "updatedAt": "2026-10-22T18:21:20Z"
+    },
+    "25319594": {
+      "trackId": "25319594",
+      "title": "Мама, я люблю",
+      "artists": [
+        "Anacondaz"
+      ],
+      "durationMs": 225140,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/25319594-cand-c25d24a65b.m4a",
+      "assetName": "25319594-cand-c25d24a65b.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/anacondaz/bbaos9dn2cm5",
+        "title": "Мама, Я Люблю",
+        "artist": "",
+        "uploader": "Anacondaz",
+        "durationMs": 225000,
+        "score": 1.0,
+        "warnings": [
+          "автоматическая проверка не гарантирует отсутствие цензуры"
+        ]
+      },
+      "addedAt": "2026-10-22T19:07:03Z",
+      "updatedAt": "2026-10-22T19:07:03Z"
     }
   },
-  "updatedAt": "2026-10-22T18:21:20Z"
+  "updatedAt": "2026-10-22T19:07:03Z"
 }
