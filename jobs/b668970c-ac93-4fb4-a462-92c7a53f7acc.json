@@ -2,14 +2,35 @@
   "schema": 1,
   "id": "b668970c-ac93-4fb4-a462-92c7a53f7acc",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "86505310",
   "trackTitle": "Мы работаем на Кремль",
   "trackArtist": "ЗАМАЙ, Слава КПСС",
   "createdAt": "2026-10-22T19:05:45Z",
-  "updatedAt": "2026-10-22T19:05:45Z",
-  "expiresAt": "2026-10-29T19:05:45Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/39832518560"
+  "updatedAt": "2026-10-22T19:06:07Z",
+  "expiresAt": "2026-10-29T19:06:07Z",
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/39832518560",
+  "candidates": [
+    {
+      "id": "cand-bfe3252dc8",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/filthdirtklib3rt/my-rabotaem-na-kreml-kpsszamay",
+      "title": "Мы Работаем На Кремль (кпсс&замай)",
+      "artist": "",
+      "uploader": "filthdirtklib3rt",
+      "durationMs": 230000,
+      "score": 0.835,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "previewUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/previews/b668970c-ac93-4fb4-a462-92c7a53f7acc-cand-bfe3252dc8.m4a",
+      "assetName": "b668970c-ac93-4fb4-a462-92c7a53f7acc-cand-bfe3252dc8.m4a",
+      "sizeBytes": 4903819,
+      "sha256": "ac526e70e92d5aa0821cdce4f3f2dc810e0941aef34906db330ba56dbca5a27a"
+    }
+  ],
+  "warnings": []
 }
