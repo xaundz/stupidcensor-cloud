@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "2994070c-6bf7-4a72-bebd-4977f5eba4e6",
+  "action": "confirm",
+  "status": "running",
+  "repo": "xaundz/stupidcensor-cloud",
+  "branch": "main",
+  "trackId": "86505310",
+  "trackTitle": "Мы работаем на Кремль",
+  "trackArtist": "ЗАМАЙ, Слава КПСС",
+  "trackDurationMs": 230000,
+  "createdAt": "2026-10-22T20:03:06Z",
+  "updatedAt": "2026-10-22T20:03:06Z",
+  "expiresAt": "2026-10-29T20:03:06Z",
+  "etaSeconds": 75,
+  "startedAt": "2026-10-22T20:03:06Z",
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/39845369048"
+}
