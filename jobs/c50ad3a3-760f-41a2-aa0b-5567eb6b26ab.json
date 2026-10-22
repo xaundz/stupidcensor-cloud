@@ -2,14 +2,20 @@
   "schema": 1,
   "id": "c50ad3a3-760f-41a2-aa0b-5567eb6b26ab",
   "action": "confirm",
-  "status": "running",
+  "status": "published",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "25319594",
   "trackTitle": "Мама, я люблю",
   "trackArtist": "Anacondaz",
   "createdAt": "2026-10-22T19:06:58Z",
-  "updatedAt": "2026-10-22T19:06:58Z",
-  "expiresAt": "2026-10-29T19:06:58Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/39837139336"
+  "updatedAt": "2026-10-22T19:07:05Z",
+  "expiresAt": "2026-10-29T19:07:05Z",
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/39837139336",
+  "published": {
+    "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/25319594-cand-c25d24a65b.m4a",
+    "assetName": "25319594-cand-c25d24a65b.m4a"
+  },
+  "candidateId": "cand-c25d24a65b",
+  "sourceJobId": "bf180714-0654-492c-b938-a77f6ce934fb"
 }
