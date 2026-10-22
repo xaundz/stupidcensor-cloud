@@ -2,14 +2,104 @@
   "schema": 1,
   "id": "bf180714-0654-492c-b938-a77f6ce934fb",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "25319594",
   "trackTitle": "Мама, я люблю",
   "trackArtist": "Anacondaz",
   "createdAt": "2026-10-22T19:04:10Z",
-  "updatedAt": "2026-10-22T19:04:10Z",
-  "expiresAt": "2026-10-29T19:04:10Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/39831040367"
+  "updatedAt": "2026-10-22T19:05:12Z",
+  "expiresAt": "2026-10-29T19:05:12Z",
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/39831040367",
+  "candidates": [
+    {
+      "id": "cand-c25d24a65b",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/anacondaz/bbaos9dn2cm5",
+      "title": "Мама, Я Люблю",
+      "artist": "",
+      "uploader": "Anacondaz",
+      "durationMs": 225000,
+      "score": 1.0,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "previewUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/previews/bf180714-0654-492c-b938-a77f6ce934fb-cand-c25d24a65b.m4a",
+      "assetName": "bf180714-0654-492c-b938-a77f6ce934fb-cand-c25d24a65b.m4a",
+      "sizeBytes": 4687038,
+      "sha256": "fe81330c786847ab8d08035feb3b1461ba73493c68ed08548fd688b518c64d4c"
+    },
+    {
+      "id": "cand-744dfd9ebe",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/mikhutov_dima/anacmama-ya-lyublyu",
+      "title": "AnacondaZ - Мама, я люблю",
+      "artist": "AnacondaZ",
+      "uploader": "DeadmoS",
+      "durationMs": 225000,
+      "score": 0.91,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "previewUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/previews/bf180714-0654-492c-b938-a77f6ce934fb-cand-744dfd9ebe.m4a",
+      "assetName": "bf180714-0654-492c-b938-a77f6ce934fb-cand-744dfd9ebe.m4a",
+      "sizeBytes": 4691949,
+      "sha256": "a1aa6f6b9ccd94ee469afc043718d28c2af8e13126373c86f5707c2614b3692b"
+    },
+    {
+      "id": "cand-dd08b26712",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/lu-chan-413673591/ry3d9wysp9pg",
+      "title": "Мама, я люблю",
+      "artist": "Anacondaz",
+      "uploader": "Lu Chan",
+      "durationMs": 225000,
+      "score": 0.91,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "previewUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/previews/bf180714-0654-492c-b938-a77f6ce934fb-cand-dd08b26712.m4a",
+      "assetName": "bf180714-0654-492c-b938-a77f6ce934fb-cand-dd08b26712.m4a",
+      "sizeBytes": 4623365,
+      "sha256": "f47394cd60c2b9376acba62e44122f8b219ef9f04a8b24a89b594059c7026779"
+    },
+    {
+      "id": "cand-82cc85a6e7",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/aveqramk/anacondaz",
+      "title": "Anacondaz - Мама, я люблю",
+      "artist": "",
+      "uploader": "aveQramk",
+      "durationMs": 225000,
+      "score": 0.908,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "previewUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/previews/bf180714-0654-492c-b938-a77f6ce934fb-cand-82cc85a6e7.m4a",
+      "assetName": "bf180714-0654-492c-b938-a77f6ce934fb-cand-82cc85a6e7.m4a",
+      "sizeBytes": 4691949,
+      "sha256": "a1aa6f6b9ccd94ee469afc043718d28c2af8e13126373c86f5707c2614b3692b"
+    },
+    {
+      "id": "cand-de4cd70fce",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-324345513/anacondaz",
+      "title": "Anacondaz - Мама, я люблю",
+      "artist": "",
+      "uploader": "fake star",
+      "durationMs": 225000,
+      "score": 0.907,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "previewUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/previews/bf180714-0654-492c-b938-a77f6ce934fb-cand-de4cd70fce.m4a",
+      "assetName": "bf180714-0654-492c-b938-a77f6ce934fb-cand-de4cd70fce.m4a",
+      "sizeBytes": 4685131,
+      "sha256": "bf79549c29b182f6aafbc034a8ff4ff4788716d514c791b0f86c0e2421a82f09"
+    }
+  ],
+  "warnings": []
 }
