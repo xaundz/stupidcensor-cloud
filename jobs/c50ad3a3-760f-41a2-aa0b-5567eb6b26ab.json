@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "id": "c50ad3a3-760f-41a2-aa0b-5567eb6b26ab",
+  "action": "confirm",
+  "status": "running",
+  "repo": "xaundz/stupidcensor-cloud",
+  "branch": "main",
+  "trackId": "25319594",
+  "trackTitle": "Мама, я люблю",
+  "trackArtist": "Anacondaz",
+  "createdAt": "2026-10-22T19:06:58Z",
+  "updatedAt": "2026-10-22T19:06:58Z",
+  "expiresAt": "2026-10-29T19:06:58Z",
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/39837139336"
+}
