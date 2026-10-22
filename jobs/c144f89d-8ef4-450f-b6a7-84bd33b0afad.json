@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "c144f89d-8ef4-450f-b6a7-84bd33b0afad",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "86505310",
@@ -10,9 +10,111 @@
   "trackArtist": "ЗАМАЙ, Слава КПСС",
   "trackDurationMs": 230000,
   "createdAt": "2026-10-22T20:59:59Z",
-  "updatedAt": "2026-10-22T20:59:59Z",
-  "expiresAt": "2026-10-29T20:59:59Z",
+  "updatedAt": "2026-10-22T21:00:04Z",
+  "expiresAt": "2026-10-29T21:00:04Z",
   "etaSeconds": 40,
   "startedAt": "2026-10-22T20:59:59Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/39853569842"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/39853569842",
+  "candidates": [
+    {
+      "id": "cand-a76eab79d4",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/zamai-music/r8gsddshs8ly",
+      "title": "Мы работаем на Кремль",
+      "artist": "",
+      "uploader": "ЗАМАЙ",
+      "durationMs": 229000,
+      "score": 0.968,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-8a884da1f2",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=-XDxBZ8Sy8s",
+      "title": "Мы работаем на кремль – ЗАМАЙ & Слава КПСС",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 230000,
+      "score": 0.888,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-1d373a120a",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=FQ9okwtYtzw",
+      "title": "СЛАВА КПСС & ХАН ЗАМАЙ - МЫ РАБОТАЕМ НА КРЕМЛЬ (ПРЕМЬЕРА 2021)",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 240000,
+      "score": 0.886,
+      "warnings": [
+        "длительность отличается на 10 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-bfe3252dc8",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/filthdirtklib3rt/my-rabotaem-na-kreml-kpsszamay",
+      "title": "Мы Работаем На Кремль (кпсс&замай)",
+      "artist": "",
+      "uploader": "filthdirtklib3rt",
+      "durationMs": 229000,
+      "score": 0.835,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-134f6e02b6",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=qI5iBwMG5nI",
+      "title": "ЗАМАЙ, Слава КПСС - Мы работаем на Кремль | караоке | минус | инструментал",
+      "artist": "",
+      "uploader": "УДОМЛЯ",
+      "durationMs": 239000,
+      "score": 0.804,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "длительность отличается на 9 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-ecceae5edc",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=-ZzEmnOoVas",
+      "title": "SUPERNATURAL - МЫ РАБОТАЕМ НА КРЕМЛЬ (ДОЛГОЖДАННАЯ ПРЕМЬЕРА КЛИПА 2021)",
+      "artist": "",
+      "uploader": "gjcjcb",
+      "durationMs": 256000,
+      "score": 0.695,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 26 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-06afc0ff58",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=hwYcX0e0c-c",
+      "title": "ХАН ЗАМАЙ & СЛАВА КПСС - ФЛЕКС ЖАНА ФЛЕЙМ (СААМАЛЫК 2021)",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 229000,
+      "score": 0.607,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    }
+  ],
+  "warnings": []
 }
