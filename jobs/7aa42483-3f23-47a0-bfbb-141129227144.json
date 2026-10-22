@@ -2,14 +2,107 @@
   "schema": 1,
   "id": "7aa42483-3f23-47a0-bfbb-141129227144",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "121646353",
   "trackTitle": "ЧСВ",
   "trackArtist": "Lida, Серега Пират",
   "createdAt": "2026-10-22T18:19:36Z",
-  "updatedAt": "2026-10-22T18:19:36Z",
-  "expiresAt": "2026-10-29T18:19:36Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/39830221944"
+  "updatedAt": "2026-10-22T18:20:26Z",
+  "expiresAt": "2026-10-29T18:20:26Z",
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/39830221944",
+  "candidates": [
+    {
+      "id": "cand-8a7d682b87",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/lidafans/self-respect",
+      "title": "ЧСВ",
+      "artist": "LIDA， Серега пират",
+      "uploader": "Lida",
+      "durationMs": 196000,
+      "score": 0.966,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "previewUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/previews/7aa42483-3f23-47a0-bfbb-141129227144-cand-8a7d682b87.m4a",
+      "assetName": "7aa42483-3f23-47a0-bfbb-141129227144-cand-8a7d682b87.m4a",
+      "sizeBytes": 4014343,
+      "sha256": "640fd1cb2d4ff6827dab3632db27e7b8550267854d84ca3f825b66e09cc0d948"
+    },
+    {
+      "id": "cand-1f2b49be93",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/seregapiraaat/chsv-feat-lida",
+      "title": "ЧСВ (feat. Lida)",
+      "artist": "СЕРЕГА ПИРАТ",
+      "uploader": "СЕРЕГА ПИРАТ",
+      "durationMs": 196000,
+      "score": 0.92,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "previewUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/previews/7aa42483-3f23-47a0-bfbb-141129227144-cand-1f2b49be93.m4a",
+      "assetName": "7aa42483-3f23-47a0-bfbb-141129227144-cand-1f2b49be93.m4a",
+      "sizeBytes": 4032527,
+      "sha256": "528cbfc430fff8eea2f01947ab239608388cdfe15b29d28c77d651d512f090c8"
+    },
+    {
+      "id": "cand-bc11542721",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/proektbezimeni/lida-x-serega-pirat-chsv",
+      "title": "Lida x Серега Пират - ЧСВ",
+      "artist": "",
+      "uploader": "безымянный проект.",
+      "durationMs": 196000,
+      "score": 0.878,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "previewUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/previews/7aa42483-3f23-47a0-bfbb-141129227144-cand-bc11542721.m4a",
+      "assetName": "7aa42483-3f23-47a0-bfbb-141129227144-cand-bc11542721.m4a",
+      "sizeBytes": 4032527,
+      "sha256": "528cbfc430fff8eea2f01947ab239608388cdfe15b29d28c77d651d512f090c8"
+    },
+    {
+      "id": "cand-ddce3e9525",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/p1ta/lida-serega-pirat-chsv-1",
+      "title": "Lida & Серега Пират - ЧСВ ( Instrumental )",
+      "artist": "",
+      "uploader": "nixeyzz",
+      "durationMs": 202000,
+      "score": 0.827,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "previewUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/previews/7aa42483-3f23-47a0-bfbb-141129227144-cand-ddce3e9525.m4a",
+      "assetName": "7aa42483-3f23-47a0-bfbb-141129227144-cand-ddce3e9525.m4a",
+      "sizeBytes": 4103840,
+      "sha256": "099d8d7b7e22303ca0f70f7e41150b10be97c8a6b5368200fc917f29985c0d60"
+    },
+    {
+      "id": "cand-9f4a35b140",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-51898854/lida-seryoga-pirat-chsv-slowed",
+      "title": "lida, серёга пират - чсв (slowed)",
+      "artist": "",
+      "uploader": "ppluwx",
+      "durationMs": 211000,
+      "score": 0.823,
+      "warnings": [
+        "изменён темп или обработка",
+        "автор загрузившего не совпадает",
+        "длительность отличается на 11 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "previewUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/previews/7aa42483-3f23-47a0-bfbb-141129227144-cand-9f4a35b140.m4a",
+      "assetName": "7aa42483-3f23-47a0-bfbb-141129227144-cand-9f4a35b140.m4a",
+      "sizeBytes": 4293410,
+      "sha256": "60cdea8e281f9feb97bc42e3a3fdfa7978e756c97e02fd04098b2cde232a2e3d"
+    }
+  ],
+  "warnings": []
 }
