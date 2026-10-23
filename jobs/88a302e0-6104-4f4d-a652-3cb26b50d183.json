@@ -10,9 +10,10 @@
   "trackArtist": "Джарахов, MORGENSHTERN",
   "trackDurationMs": 91000,
   "createdAt": "2026-10-23T20:47:17Z",
-  "updatedAt": "2026-10-23T20:47:17Z",
-  "expiresAt": "2026-10-30T20:47:17Z",
+  "updatedAt": "2026-10-23T20:47:21Z",
+  "expiresAt": "2026-10-30T20:47:21Z",
   "etaSeconds": 75,
   "startedAt": "2026-10-23T20:47:17Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40021758507"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40021758507",
+  "note": "Источник недоступен: YouTube требует вход с IP GitHub Actions. Добавьте cookies в секрет YTDLP_COOKIES или выберите SoundCloud. Пробую резервный вариант «Джарахов, MORGENSHTERN - Дегенерат DELUXE (Beat)»."
 }
