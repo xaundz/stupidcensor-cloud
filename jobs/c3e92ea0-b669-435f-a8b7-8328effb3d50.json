@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "c3e92ea0-b669-435f-a8b7-8328effb3d50",
   "action": "toggle",
-  "status": "running",
+  "status": "updated",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "25319594",
@@ -10,9 +10,10 @@
   "trackArtist": "",
   "trackDurationMs": 0,
   "createdAt": "2026-10-23T19:56:53Z",
-  "updatedAt": "2026-10-23T19:56:53Z",
-  "expiresAt": "2026-10-30T19:56:53Z",
+  "updatedAt": "2026-10-23T19:56:55Z",
+  "expiresAt": "2026-10-30T19:56:55Z",
   "etaSeconds": 6,
   "startedAt": "2026-10-23T19:56:53Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40015363848"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40015363848",
+  "enabled": false
 }
