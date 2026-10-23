@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "5364901b-04a5-4df3-8265-59087c99cf52",
+  "action": "confirm",
+  "status": "running",
+  "repo": "xaundz/stupidcensor-cloud",
+  "branch": "main",
+  "trackId": "107970520",
+  "trackTitle": "Benzo",
+  "trackArtist": "Слава КПСС, Дима Бамберг, BOOKER, The Cold Dicks",
+  "trackDurationMs": 276000,
+  "createdAt": "2026-10-23T19:18:13Z",
+  "updatedAt": "2026-10-23T19:18:13Z",
+  "expiresAt": "2026-10-30T19:18:13Z",
+  "etaSeconds": 75,
+  "startedAt": "2026-10-23T19:18:13Z",
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40010275297"
+}
