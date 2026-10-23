@@ -112,7 +112,34 @@
       },
       "addedAt": "2026-10-23T20:35:04Z",
       "updatedAt": "2026-10-23T20:35:04Z"
+    },
+    "118111188": {
+      "trackId": "118111188",
+      "title": "Бога больше нет",
+      "artists": [
+        "BOOKER"
+      ],
+      "durationMs": 130000,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/118111188.m4a",
+      "assetName": "118111188.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/polina-kurnaeva/booker-boga-bolshe-net",
+        "title": "booker - Бога больше нет",
+        "artist": "",
+        "uploader": "ripmyfxce",
+        "durationMs": 130000,
+        "score": 0.891,
+        "warnings": [
+          "автор загрузившего не совпадает",
+          "автоматическая проверка не гарантирует отсутствие цензуры"
+        ]
+      },
+      "addedAt": "2026-10-23T20:40:51Z",
+      "updatedAt": "2026-10-23T20:40:51Z"
     }
   },
-  "updatedAt": "2026-10-23T20:35:04Z"
+  "updatedAt": "2026-10-23T20:40:51Z"
 }
