@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "ed7fccb6-7c7e-48f4-9578-b58f9fef5062",
+  "action": "confirm",
+  "status": "running",
+  "repo": "xaundz/stupidcensor-cloud",
+  "branch": "main",
+  "trackId": "28676494",
+  "trackTitle": "Junk",
+  "trackArtist": "Jane Air, Smike, Пойманные Муравьеды",
+  "trackDurationMs": 209000,
+  "createdAt": "2026-10-23T18:24:28Z",
+  "updatedAt": "2026-10-23T18:24:28Z",
+  "expiresAt": "2026-10-30T18:24:28Z",
+  "etaSeconds": 75,
+  "startedAt": "2026-10-23T18:24:28Z",
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40002930754"
+}
