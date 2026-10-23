@@ -10,9 +10,10 @@
   "trackArtist": "ЗАМАЙ, Слава КПСС",
   "trackDurationMs": 229000,
   "createdAt": "2026-10-23T20:31:05Z",
-  "updatedAt": "2026-10-23T20:31:05Z",
-  "expiresAt": "2026-10-30T20:31:05Z",
+  "updatedAt": "2026-10-23T20:31:09Z",
+  "expiresAt": "2026-10-30T20:31:09Z",
   "etaSeconds": 75,
   "startedAt": "2026-10-23T20:31:05Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40019752988"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40019752988",
+  "note": "Источник недоступен: DRM-защита: SoundCloud не отдаёт этот трек для скачивания Пробую резервный вариант «Мы работаем на кремль – ЗАМАЙ & Слава КПСС»."
 }
