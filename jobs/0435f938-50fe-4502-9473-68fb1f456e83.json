@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "0435f938-50fe-4502-9473-68fb1f456e83",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "118111188",
@@ -10,9 +10,196 @@
   "trackArtist": "BOOKER",
   "trackDurationMs": 137000,
   "createdAt": "2026-10-23T20:38:24Z",
-  "updatedAt": "2026-10-23T20:38:24Z",
-  "expiresAt": "2026-10-30T20:38:24Z",
+  "updatedAt": "2026-10-23T20:38:39Z",
+  "expiresAt": "2026-10-30T20:38:39Z",
   "etaSeconds": 45,
   "startedAt": "2026-10-23T20:38:24Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40020745105"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40020745105",
+  "candidates": [
+    {
+      "id": "cand-8e3b751430",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/booker-sc/boga-bolshe-net",
+      "title": "Бога больше нет",
+      "artist": "",
+      "uploader": "BOOKER",
+      "durationMs": 136000,
+      "score": 0.999,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-1ee94d70b9",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/polina-kurnaeva/booker-boga-bolshe-net",
+      "title": "booker - Бога больше нет",
+      "artist": "",
+      "uploader": "ripmyfxce",
+      "durationMs": 130000,
+      "score": 0.891,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-0e5191350b",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/kriss_show/booker-boga-bolshe-net",
+      "title": "Booker - Бога больше нет",
+      "artist": "",
+      "uploader": "kriss_show",
+      "durationMs": 151000,
+      "score": 0.885,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 14 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-00e87bd4f0",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/vanya-800250277/booker-boga-bolshe-net-6",
+      "title": "BOOKER - БОГА БОЛЬШЕ НЕТ",
+      "artist": "",
+      "uploader": "МС Белгород",
+      "durationMs": 134000,
+      "score": 0.878,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-4e5102c180",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=W8Z7e6QphEM",
+      "title": "BOOKER - Бога больше нет | CS2",
+      "artist": "",
+      "uploader": "DevCheese",
+      "durationMs": 137000,
+      "score": 0.834,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-b492db3847",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/shasliiiik/booker-boga-bolshe-net",
+      "title": "BOOKER - Бога больше нет (инструментал)",
+      "artist": "",
+      "uploader": "SHASLIIIIK.",
+      "durationMs": 136000,
+      "score": 0.832,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-d49e085eed",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/vera-399265630/boga-bolshe-net-instrumental",
+      "title": "Бога больше нет (INSTRUMENTAL)",
+      "artist": "",
+      "uploader": "mydak",
+      "durationMs": 136000,
+      "score": 0.823,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-a70ff65844",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/vera-399265630/boga-bolshe-net-instrumental-1",
+      "title": "Бога больше нет (INSTRUMENTAL)",
+      "artist": "",
+      "uploader": "mydak",
+      "durationMs": 136000,
+      "score": 0.823,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-b6481b0101",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=7RyjamhZtgM",
+      "title": "Бога больше нет – BOOKER (минус)",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 137000,
+      "score": 0.818,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-5691af7309",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=vfGZsYq-zkI",
+      "title": "BOOKER - Бога больше нет (Без цензуры)",
+      "artist": "",
+      "uploader": "любимый",
+      "durationMs": 137000,
+      "score": 0.776,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-94fae5e4f1",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=YjDGsivVIyw",
+      "title": "BOOKER - Бога больше нет (Live • Владивосток • 06.06.2026)",
+      "artist": "",
+      "uploader": "Vladivostok Art",
+      "durationMs": 131000,
+      "score": 0.765,
+      "warnings": [
+        "концертная запись",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-b43c83af44",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=SHlsvznrCDQ",
+      "title": "BOOKER — Бога больше нет [sped up by papka]",
+      "artist": "",
+      "uploader": "papka",
+      "durationMs": 125000,
+      "score": 0.737,
+      "warnings": [
+        "изменён темп или обработка",
+        "автор загрузившего не совпадает",
+        "длительность отличается на 12 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    }
+  ],
+  "warnings": []
 }
