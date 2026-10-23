@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "ed7fccb6-7c7e-48f4-9578-b58f9fef5062",
   "action": "confirm",
-  "status": "running",
+  "status": "failed",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "28676494",
@@ -10,9 +10,14 @@
   "trackArtist": "Jane Air, Smike, Пойманные Муравьеды",
   "trackDurationMs": 209000,
   "createdAt": "2026-10-23T18:24:28Z",
-  "updatedAt": "2026-10-23T18:24:28Z",
-  "expiresAt": "2026-10-30T18:24:28Z",
+  "updatedAt": "2026-10-23T18:24:32Z",
+  "expiresAt": "2026-10-30T18:24:32Z",
   "etaSeconds": 75,
   "startedAt": "2026-10-23T18:24:28Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40002930754"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40002930754",
+  "error": {
+    "code": "youtube_auth",
+    "message": "YouTube требует вход с IP GitHub Actions. Добавьте cookies в секрет YTDLP_COOKIES или выберите SoundCloud.",
+    "detail": "ERROR: [youtube] tH8jMlsMFw4: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  }
 }
