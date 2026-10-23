@@ -10,9 +10,10 @@
   "trackArtist": "Слава КПСС, Дима Бамберг, BOOKER, The Cold Dicks",
   "trackDurationMs": 276000,
   "createdAt": "2026-10-23T20:34:52Z",
-  "updatedAt": "2026-10-23T20:34:52Z",
-  "expiresAt": "2026-10-30T20:34:52Z",
+  "updatedAt": "2026-10-23T20:34:55Z",
+  "expiresAt": "2026-10-30T20:34:55Z",
   "etaSeconds": 75,
   "startedAt": "2026-10-23T20:34:52Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40020245399"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40020245399",
+  "note": "Источник недоступен: YouTube требует вход с IP GitHub Actions. Добавьте cookies в секрет YTDLP_COOKIES или выберите SoundCloud. Пробую резервный вариант «СЛАВА КПСС, ДИМА БАМБЕРГ, BOOKER, THE COLD DICKS - BENZO»."
 }
