@@ -54,7 +54,35 @@
       },
       "addedAt": "2026-10-22T19:07:03Z",
       "updatedAt": "2026-10-23T19:57:00Z"
+    },
+    "86505310": {
+      "trackId": "86505310",
+      "title": "Мы работаем на Кремль",
+      "artists": [
+        "ЗАМАЙ",
+        "Слава КПСС"
+      ],
+      "durationMs": 230000,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/86505310.m4a",
+      "assetName": "86505310.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/filthdirtklib3rt/my-rabotaem-na-kreml-kpsszamay",
+        "title": "Мы Работаем На Кремль (кпсс&замай)",
+        "artist": "",
+        "uploader": "filthdirtklib3rt",
+        "durationMs": 230000,
+        "score": 0.835,
+        "warnings": [
+          "автор загрузившего не совпадает",
+          "автоматическая проверка не гарантирует отсутствие цензуры"
+        ]
+      },
+      "addedAt": "2026-10-23T20:31:23Z",
+      "updatedAt": "2026-10-23T20:31:23Z"
     }
   },
-  "updatedAt": "2026-10-23T19:57:00Z"
+  "updatedAt": "2026-10-23T20:31:23Z"
 }
