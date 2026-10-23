@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "7543e792-f437-4f19-a268-8e87233b8b46",
+  "action": "check",
+  "status": "running",
+  "repo": "xaundz/stupidcensor-cloud",
+  "branch": "main",
+  "trackId": "0",
+  "trackTitle": "Проверка YouTube",
+  "trackArtist": "",
+  "trackDurationMs": 0,
+  "createdAt": "2026-10-23T18:58:58Z",
+  "updatedAt": "2026-10-23T18:58:58Z",
+  "expiresAt": "2026-10-30T18:58:58Z",
+  "etaSeconds": 20,
+  "startedAt": "2026-10-23T18:58:58Z",
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40007721951"
+}
