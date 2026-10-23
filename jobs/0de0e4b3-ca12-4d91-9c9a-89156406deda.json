@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "0de0e4b3-ca12-4d91-9c9a-89156406deda",
   "action": "confirm",
-  "status": "running",
+  "status": "published",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "107970520",
@@ -10,10 +10,16 @@
   "trackArtist": "Слава КПСС, Дима Бамберг, BOOKER, The Cold Dicks",
   "trackDurationMs": 276000,
   "createdAt": "2026-10-23T20:34:52Z",
-  "updatedAt": "2026-10-23T20:34:55Z",
-  "expiresAt": "2026-10-30T20:34:55Z",
+  "updatedAt": "2026-10-23T20:35:05Z",
+  "expiresAt": "2026-10-30T20:35:05Z",
   "etaSeconds": 75,
   "startedAt": "2026-10-23T20:34:52Z",
   "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40020245399",
-  "note": "Источник недоступен: YouTube требует вход с IP GitHub Actions. Добавьте cookies в секрет YTDLP_COOKIES или выберите SoundCloud. Пробую резервный вариант «СЛАВА КПСС, ДИМА БАМБЕРГ, BOOKER, THE COLD DICKS - BENZO»."
+  "published": {
+    "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/107970520.m4a",
+    "assetName": "107970520.m4a"
+  },
+  "candidateId": "cand-c918f207d8",
+  "sourceJobId": "38be7167-1294-43ea-bb30-51a4c15ccc7c",
+  "note": "Основной источник не подошёл. Использован резервный: «СЛАВА КПСС, ДИМА БАМБЕРГ, BOOKER, THE COLD DICKS - BENZO». Benzo: YouTube требует вход с IP GitHub Actions. Добавьте cookies в секрет YTDLP_COOKIES или выберите SoundCloud."
 }
