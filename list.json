@@ -82,7 +82,37 @@
       },
       "addedAt": "2026-10-23T20:31:23Z",
       "updatedAt": "2026-10-23T20:31:23Z"
+    },
+    "107970520": {
+      "trackId": "107970520",
+      "title": "Benzo",
+      "artists": [
+        "Слава КПСС",
+        "Дима Бамберг",
+        "BOOKER",
+        "The Cold Dicks"
+      ],
+      "durationMs": 273000,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/107970520.m4a",
+      "assetName": "107970520.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/vanya-800250277/slava-kpss-dima-bamberg-booker",
+        "title": "СЛАВА КПСС, ДИМА БАМБЕРГ, BOOKER, THE COLD DICKS - BENZO",
+        "artist": "",
+        "uploader": "МС Белгород",
+        "durationMs": 273000,
+        "score": 0.9,
+        "warnings": [
+          "автор загрузившего не совпадает",
+          "автоматическая проверка не гарантирует отсутствие цензуры"
+        ]
+      },
+      "addedAt": "2026-10-23T20:35:04Z",
+      "updatedAt": "2026-10-23T20:35:04Z"
     }
   },
-  "updatedAt": "2026-10-23T20:31:23Z"
+  "updatedAt": "2026-10-23T20:35:04Z"
 }
