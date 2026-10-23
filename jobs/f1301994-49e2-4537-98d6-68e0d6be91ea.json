@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "f1301994-49e2-4537-98d6-68e0d6be91ea",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "133901297",
@@ -10,9 +10,181 @@
   "trackArtist": "паранойя",
   "trackDurationMs": 121000,
   "createdAt": "2026-10-23T18:17:12Z",
-  "updatedAt": "2026-10-23T18:17:12Z",
-  "expiresAt": "2026-10-30T18:17:12Z",
+  "updatedAt": "2026-10-23T18:17:24Z",
+  "expiresAt": "2026-10-30T18:17:24Z",
   "etaSeconds": 40,
   "startedAt": "2026-10-23T18:17:12Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40002009505"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40002009505",
+  "candidates": [
+    {
+      "id": "cand-e3a28ede9b",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=_RIWn9eeN4g",
+      "title": "паранойя — ALASKA PUFFER",
+      "artist": "",
+      "uploader": "паранойя",
+      "durationMs": 122000,
+      "score": 0.999,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-9e7dbe0eb1",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=lYOvN0YIGYY",
+      "title": "ALASKA PUFFER",
+      "artist": "",
+      "uploader": "паранойя – тема",
+      "durationMs": 122000,
+      "score": 0.975,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-1e01c78410",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=TpCQgAt3_H0",
+      "title": "ALASKA PUFFER 2",
+      "artist": "",
+      "uploader": "паранойя",
+      "durationMs": 109000,
+      "score": 0.934,
+      "warnings": [
+        "длительность отличается на 12 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-c0b56fd79d",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/wheredyoufindthisbruh/alaska-puffer-2",
+      "title": "ALASKA PUFFER 2",
+      "artist": "",
+      "uploader": "паранойя",
+      "durationMs": 108000,
+      "score": 0.934,
+      "warnings": [
+        "длительность отличается на 13 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-93e1018540",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/madk1ddeletedvideo/paranoi-ya-alaska-puffer",
+      "title": "паранойя - ALASKA PUFFER",
+      "artist": "",
+      "uploader": "фанат кот10",
+      "durationMs": 118000,
+      "score": 0.915,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-7cf9925bec",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=1cVGBQM1tVI",
+      "title": "паранойя - ALASKA PUFFER (Официальный трек)",
+      "artist": "",
+      "uploader": "паранойя",
+      "durationMs": 122000,
+      "score": 0.874,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-dffb0808b2",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/wheredyoufindthisbruh/alaska-puffer-prod-by",
+      "title": "ALASKA PUFFER (prod. by 555kenichi, fumiko, speenzy)",
+      "artist": "",
+      "uploader": "паранойя",
+      "durationMs": 121000,
+      "score": 0.805,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-9be07ed021",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=fwBpeX9rEXo",
+      "title": "ALASKA PUFFER (prod. by 555kenichi, fumiko, speenzy)",
+      "artist": "",
+      "uploader": "паранойя",
+      "durationMs": 122000,
+      "score": 0.804,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-bbdd109c7d",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/shxzuko-745521802/paranoi-ya-alaska-puffer-remix",
+      "title": "паранойя – ALASKA PUFFER REMIX",
+      "artist": "",
+      "uploader": "amyholic",
+      "durationMs": 109000,
+      "score": 0.792,
+      "warnings": [
+        "ремикс",
+        "автор загрузившего не совпадает",
+        "длительность отличается на 12 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-e2350408ec",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/ly9zqwppbz3o/paranojya-alaska-puffer-slow",
+      "title": "паранойя - ALASKA PUFFER (slow)",
+      "artist": "",
+      "uploader": "thotiana",
+      "durationMs": 136000,
+      "score": 0.79,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 15 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-e0e93ae027",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/proektbezimeni/paranoiya-alaska-puffer",
+      "title": "паранойя - ALASKA PUFFER (аляска куртка)",
+      "artist": "",
+      "uploader": "безымянный проект.",
+      "durationMs": 118000,
+      "score": 0.782,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-2f6ee3e6e9",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=1VIjIYRk8zg",
+      "title": "паранойя - ALASKA PUFFER (АЛЯСКА КУРТКА)",
+      "artist": "",
+      "uploader": "SmokeSipper",
+      "durationMs": 122000,
+      "score": 0.754,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    }
+  ],
+  "warnings": []
 }
