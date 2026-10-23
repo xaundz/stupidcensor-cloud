@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "f9090d0a-899b-4a99-bb00-23d0f934afb2",
   "action": "confirm",
-  "status": "running",
+  "status": "published",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "86505310",
@@ -10,10 +10,16 @@
   "trackArtist": "ЗАМАЙ, Слава КПСС",
   "trackDurationMs": 229000,
   "createdAt": "2026-10-23T20:31:05Z",
-  "updatedAt": "2026-10-23T20:31:11Z",
-  "expiresAt": "2026-10-30T20:31:11Z",
+  "updatedAt": "2026-10-23T20:31:24Z",
+  "expiresAt": "2026-10-30T20:31:24Z",
   "etaSeconds": 75,
   "startedAt": "2026-10-23T20:31:05Z",
   "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40019752988",
-  "note": "Источник недоступен: YouTube требует вход с IP GitHub Actions. Добавьте cookies в секрет YTDLP_COOKIES или выберите SoundCloud. Пробую резервный вариант «Мы Работаем На Кремль (кпсс&замай)»."
+  "published": {
+    "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/86505310.m4a",
+    "assetName": "86505310.m4a"
+  },
+  "candidateId": "cand-bfe3252dc8",
+  "sourceJobId": "c144f89d-8ef4-450f-b6a7-84bd33b0afad",
+  "note": "Основной источник не подошёл. Использован резервный: «Мы Работаем На Кремль (кпсс&замай)». Мы работаем на Кремль: DRM-защита: SoundCloud не отдаёт этот трек для скачивания Мы работаем на кремль – ЗАМАЙ & Слава КПСС: YouTube требует вход с IP GitHub Actions. Добавьте cookies в секрет YTDLP_COOKIES или выберите SoundCloud."
 }
