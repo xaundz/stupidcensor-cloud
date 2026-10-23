@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "88a302e0-6104-4f4d-a652-3cb26b50d183",
   "action": "confirm",
-  "status": "running",
+  "status": "published",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "77143804",
@@ -10,10 +10,16 @@
   "trackArtist": "Джарахов, MORGENSHTERN",
   "trackDurationMs": 91000,
   "createdAt": "2026-10-23T20:47:17Z",
-  "updatedAt": "2026-10-23T20:47:21Z",
-  "expiresAt": "2026-10-30T20:47:21Z",
+  "updatedAt": "2026-10-23T20:47:28Z",
+  "expiresAt": "2026-10-30T20:47:28Z",
   "etaSeconds": 75,
   "startedAt": "2026-10-23T20:47:17Z",
   "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40021758507",
-  "note": "Источник недоступен: YouTube требует вход с IP GitHub Actions. Добавьте cookies в секрет YTDLP_COOKIES или выберите SoundCloud. Пробую резервный вариант «Джарахов, MORGENSHTERN - Дегенерат DELUXE (Beat)»."
+  "published": {
+    "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/77143804.m4a",
+    "assetName": "77143804.m4a"
+  },
+  "candidateId": "cand-98ebf99e55",
+  "sourceJobId": "8bce605f-c852-4dd0-91c8-52616ee435b4",
+  "note": "Основной источник не подошёл. Использован резервный: «Джарахов, MORGENSHTERN - Дегенерат DELUXE (Beat)». Degenerat (DELUXE): YouTube требует вход с IP GitHub Actions. Добавьте cookies в секрет YTDLP_COOKIES или выберите SoundCloud."
 }
