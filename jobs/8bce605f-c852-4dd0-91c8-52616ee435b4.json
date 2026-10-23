@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "8bce605f-c852-4dd0-91c8-52616ee435b4",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "77143804",
@@ -10,9 +10,189 @@
   "trackArtist": "Джарахов, MORGENSHTERN",
   "trackDurationMs": 90000,
   "createdAt": "2026-10-23T20:44:49Z",
-  "updatedAt": "2026-10-23T20:44:49Z",
-  "expiresAt": "2026-10-30T20:44:49Z",
+  "updatedAt": "2026-10-23T20:45:04Z",
+  "expiresAt": "2026-10-30T20:45:04Z",
   "etaSeconds": 45,
   "startedAt": "2026-10-23T20:44:49Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40021534356"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40021534356",
+  "candidates": [
+    {
+      "id": "cand-31efa581c0",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=D6GXsDB2pNc",
+      "title": "Degenerat (DELUXE)",
+      "artist": "",
+      "uploader": "ДЖАРАХОВ",
+      "durationMs": 91000,
+      "score": 0.819,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-a44e93c64b",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/qtlll78txzvt/morgenshtern-degenerat-slowed",
+      "title": "Джарахов, Morgenshtern - Degenerat, Дегенерат (slowed remix)",
+      "artist": "",
+      "uploader": "Andy_key",
+      "durationMs": 105000,
+      "score": 0.716,
+      "warnings": [
+        "ремикс",
+        "изменён темп или обработка",
+        "автор загрузившего не совпадает",
+        "длительность отличается на 15 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-98ebf99e55",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-332368739/dzharakhov-morgenshtern-degenerat-deluxe-beat",
+      "title": "Джарахов, MORGENSHTERN - Дегенерат DELUXE (Beat)",
+      "artist": "",
+      "uploader": "OFF NINE // BEWERLY GUAPO",
+      "durationMs": 87000,
+      "score": 0.709,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-c1eaf6283f",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/overfrag/dzharakhov-morgenshtern-degenerat-deluxe",
+      "title": "Джарахов, MORGENSHTERN - Дегенерат (DELUXE)",
+      "artist": "",
+      "uploader": "💎OVERFRAG💎",
+      "durationMs": 90000,
+      "score": 0.69,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-e679515e12",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=FYZFdRNpaik",
+      "title": "ДЖАРАХОВ x MORGENSTERN - Дегенерат [Deluxe Version]",
+      "artist": "",
+      "uploader": "Morgenshtern Live",
+      "durationMs": 85000,
+      "score": 0.69,
+      "warnings": [
+        "концертная запись",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-e95f68a680",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-937593/dzharakhov-morgenshtern-degenerat-deluxe",
+      "title": "Джарахов & MORGENSHTERN - Дегенерат (DELUXE)",
+      "artist": "",
+      "uploader": "Zhara Music",
+      "durationMs": 90000,
+      "score": 0.688,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-21b4b56389",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/igor-zinovyev-16792539/dzharakhov-morgenshtern-degenerat",
+      "title": "ДЖАРАХОВ & MORGENSHTERN - ДЕГЕНЕРАТ",
+      "artist": "",
+      "uploader": "слава украине",
+      "durationMs": 87000,
+      "score": 0.671,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-e04bee1330",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/ragram-949622348/morgenshtern-1",
+      "title": "ДЖАРАХОВ & MORGENSHTERN - ДЕГЕНЕРАТ",
+      "artist": "",
+      "uploader": "FOLKUS",
+      "durationMs": 87000,
+      "score": 0.668,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-af28e01eb7",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=IXCyHeO6hB4",
+      "title": "Джарахов, Morgenshtern - Дегенерат",
+      "artist": "",
+      "uploader": "GOLBYTWICTH",
+      "durationMs": 91000,
+      "score": 0.667,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-85d59ae4df",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=eCZH129qnTE",
+      "title": "Джарахов & MORGENSHTERN - ДЕГЕНЕРАТ (DELUXE VERSION, 2021)",
+      "artist": "",
+      "uploader": "MORGENSHTERN (inoagent) & SLAVA MARLOW",
+      "durationMs": 92000,
+      "score": 0.664,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-080dea7ab1",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/alisher-morgenshtern-553772671/c5chj4njzhf6",
+      "title": "Джарахов — Деньге",
+      "artist": "",
+      "uploader": "Alisher Morgenshtern",
+      "durationMs": 107000,
+      "score": 0.646,
+      "warnings": [
+        "длительность отличается на 17 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-12677975c9",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/dxxmo/dzharakhov-feat-morgenshtern-degenerat",
+      "title": "Джарахов feat. MORGENSHTERN - Дегенерат",
+      "artist": "",
+      "uploader": "dxxmo",
+      "durationMs": 91000,
+      "score": 0.63,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    }
+  ],
+  "warnings": []
 }
