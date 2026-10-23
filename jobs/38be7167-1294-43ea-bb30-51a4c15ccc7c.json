@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "38be7167-1294-43ea-bb30-51a4c15ccc7c",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "107970520",
@@ -10,9 +10,102 @@
   "trackArtist": "Слава КПСС, Дима Бамберг, BOOKER, The Cold Dicks",
   "trackDurationMs": 275000,
   "createdAt": "2026-10-23T19:13:03Z",
-  "updatedAt": "2026-10-23T19:13:03Z",
-  "expiresAt": "2026-10-30T19:13:03Z",
+  "updatedAt": "2026-10-23T19:13:15Z",
+  "expiresAt": "2026-10-30T19:13:15Z",
   "etaSeconds": 45,
   "startedAt": "2026-10-23T19:13:03Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40009601588"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40009601588",
+  "candidates": [
+    {
+      "id": "cand-ba6bd52733",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=e6_iUHK1ktk",
+      "title": "Benzo",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 276000,
+      "score": 0.964,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-a1e37af0af",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=v54gNMXVcOo",
+      "title": "Benzo",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 276000,
+      "score": 0.964,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-49211371eb",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/slavakpss10776/benzo-feat-dima-bamberg-booker",
+      "title": "Benzo (feat. дима бамберг, BOOKER & The Cold Dicks)",
+      "artist": "",
+      "uploader": "Слава КПСС",
+      "durationMs": 275000,
+      "score": 0.933,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-c918f207d8",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/vanya-800250277/slava-kpss-dima-bamberg-booker",
+      "title": "СЛАВА КПСС, ДИМА БАМБЕРГ, BOOKER, THE COLD DICKS - BENZO",
+      "artist": "",
+      "uploader": "МС Белгород",
+      "durationMs": 272000,
+      "score": 0.9,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-0c9630af15",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=xdToHIiHmb4",
+      "title": "Слава КПСС, дима бамберг, BOOKER & The Cold Dicks - BENZO (LYRICS) (КАРАОКЕ)",
+      "artist": "",
+      "uploader": "sn beats.",
+      "durationMs": 276000,
+      "score": 0.846,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-c6fb17ac5f",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=GNqMEruTtjY",
+      "title": "РЕАКЦИЯ ЕГОРА ПОЙЗОНА НА ТРЕК СЛАВЫ КПСС - BENZO (при уч. BOOKER, дима бамберг, Андрей Жильцов)",
+      "artist": "",
+      "uploader": "Пятая Колонна",
+      "durationMs": 271000,
+      "score": 0.604,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    }
+  ],
+  "warnings": []
 }
