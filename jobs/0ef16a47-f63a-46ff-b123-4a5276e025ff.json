@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "0ef16a47-f63a-46ff-b123-4a5276e025ff",
+  "action": "confirm",
+  "status": "running",
+  "repo": "xaundz/stupidcensor-cloud",
+  "branch": "main",
+  "trackId": "118111188",
+  "trackTitle": "Бога больше нет",
+  "trackArtist": "BOOKER",
+  "trackDurationMs": 130000,
+  "createdAt": "2026-10-23T20:40:43Z",
+  "updatedAt": "2026-10-23T20:40:43Z",
+  "expiresAt": "2026-10-30T20:40:43Z",
+  "etaSeconds": 75,
+  "startedAt": "2026-10-23T20:40:43Z",
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40020964867"
+}
