@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "d876048a-c829-4717-8ee6-e1d6738ff602",
   "action": "confirm",
-  "status": "running",
+  "status": "failed",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "107970520",
@@ -10,9 +10,14 @@
   "trackArtist": "Слава КПСС, Дима Бамберг, BOOKER, The Cold Dicks",
   "trackDurationMs": 272000,
   "createdAt": "2026-10-23T19:15:24Z",
-  "updatedAt": "2026-10-23T19:15:24Z",
-  "expiresAt": "2026-10-30T19:15:24Z",
+  "updatedAt": "2026-10-23T19:15:30Z",
+  "expiresAt": "2026-10-30T19:15:30Z",
   "etaSeconds": 75,
   "startedAt": "2026-10-23T19:15:24Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40009881114"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40009881114",
+  "error": {
+    "code": "tool_failed",
+    "message": "ffmpeg завершился с ошибкой.",
+    "detail": "Output /tmp/uncensor-confirm-2mnl4ywl/source-g7qtkue4/source.m4a same as Input #0 - exiting Error opening output file /tmp/uncensor-confirm-2mnl4ywl/source-g7qtkue4/source.m4a. Error opening output files: Invalid argument"
+  }
 }
