@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "76823f17-7242-41b6-8917-c8b85a6fb314",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "117219730",
@@ -10,9 +10,195 @@
   "trackArtist": "Слава КПСС",
   "trackDurationMs": 137000,
   "createdAt": "2026-10-24T20:54:12Z",
-  "updatedAt": "2026-10-24T20:54:12Z",
-  "expiresAt": "2026-10-31T20:54:12Z",
+  "updatedAt": "2026-10-24T20:54:19Z",
+  "expiresAt": "2026-10-31T20:54:19Z",
   "etaSeconds": 45,
   "startedAt": "2026-10-24T20:54:12Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40131836578"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40131836578",
+  "candidates": [
+    {
+      "id": "cand-18a7d265af",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=PaJiKBy7n1g",
+      "title": "No Thanks",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 137000,
+      "score": 1.0,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-ae608600e3",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/slavakpss-music/no-thanks-1",
+      "title": "No Thanks",
+      "artist": "",
+      "uploader": "Слава КПСС",
+      "durationMs": 137000,
+      "score": 1.0,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-1a59a85247",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/slavakpss-music/no-thanks",
+      "title": "No, Thanks",
+      "artist": "",
+      "uploader": "Слава КПСС",
+      "durationMs": 128000,
+      "score": 0.993,
+      "warnings": [
+        "длительность отличается на 9 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-446ca8efe7",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=0JsQvfQyz3I",
+      "title": "Слава КПСС-No Thanks",
+      "artist": "",
+      "uploader": "сенсай",
+      "durationMs": 138000,
+      "score": 0.909,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-e0a9fe3ab2",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=NIIM0Cjshfc",
+      "title": "Слава КПСС – No Thanks",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 136000,
+      "score": 0.898,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-06413a4650",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/999980-773983115/slava-kpss-no-thanks-mp3",
+      "title": "Слава КПСС - No Thanks.mp3",
+      "artist": "",
+      "uploader": "paindelivery",
+      "durationMs": 137000,
+      "score": 0.818,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-49c3c9b22e",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=zyoIfIBhZWg",
+      "title": "СЛАВА КПСС - NO, THANKS (REMIX)",
+      "artist": "",
+      "uploader": "F - Falsification",
+      "durationMs": 122000,
+      "score": 0.816,
+      "warnings": [
+        "ремикс",
+        "автор загрузившего не совпадает",
+        "длительность отличается на 15 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-43b425a79e",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/frewiopp/slava-kpss-no-thanks-mp3",
+      "title": "Слава КПСС - No, Thanks.mp3",
+      "artist": "",
+      "uploader": "Frewiopp",
+      "durationMs": 128000,
+      "score": 0.811,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 9 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-43ea6ca542",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=OfTLqoKdEwo",
+      "title": "СОНЯ МАРМЕЛАДОВА - NO, THANKS (F*UCK FRESH BLOOD)",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 129000,
+      "score": 0.807,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-242b2d22b0",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=i8WuGfC9020",
+      "title": "Oxxxymiron — No Thanks (AI cover Слава КПСС)",
+      "artist": "",
+      "uploader": "Что-то с чем-то...",
+      "durationMs": 138000,
+      "score": 0.765,
+      "warnings": [
+        "кавер или перепевка",
+        "возможна обработка ИИ",
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-ad35681be8",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=MGPE78C5Rfg",
+      "title": "Слава КПСС - No Thanks | караоке | минус | инструментал",
+      "artist": "",
+      "uploader": "УДОМЛЯ",
+      "durationMs": 140000,
+      "score": 0.759,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-211bb0af18",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-894495660/slava-kpss-no-thanks-lyubimye",
+      "title": "Слава КПСС - No Thanks (Любимые песни настоящих людей)",
+      "artist": "",
+      "uploader": "пук хрюк",
+      "durationMs": 137000,
+      "score": 0.751,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
