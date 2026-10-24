@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "54a77af5-e206-4ff0-9328-7310761c7a11",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "28676494",
@@ -10,12 +10,148 @@
   "trackArtist": "Jane Air, Smike, Пойманные Муравьеды",
   "trackDurationMs": 208000,
   "createdAt": "2026-10-24T20:29:15Z",
-  "updatedAt": "2026-10-24T20:29:15Z",
-  "expiresAt": "2026-10-31T20:29:15Z",
+  "updatedAt": "2026-10-24T20:29:18Z",
+  "expiresAt": "2026-10-31T20:29:18Z",
   "etaSeconds": 45,
   "startedAt": "2026-10-24T20:29:15Z",
   "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40129975859",
-  "note": "Заявка получена. Идёт поиск источников.",
+  "candidates": [
+    {
+      "id": "cand-fd0d4aee58",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=tH8jMlsMFw4",
+      "title": "Jane Air - Junk (feat. Smike & Пойманные Муравьеды)",
+      "artist": "",
+      "uploader": "𝙋𝙍𝙄𝙈𝙀 𝙎𝙃𝙊𝙋",
+      "durationMs": 209000,
+      "score": 0.851,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-7b0b7489da",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=ZMDuUL--y1M",
+      "title": "Jane Air, Smike, Пойманные Муравьеды - Junk (The Boys: T3)",
+      "artist": "",
+      "uploader": "SoundRoad",
+      "durationMs": 210000,
+      "score": 0.781,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-1fad11d1f6",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=9yIG_1SmDQo",
+      "title": "Jane Air - Junk",
+      "artist": "",
+      "uploader": "UrFriendClippy",
+      "durationMs": 206000,
+      "score": 0.733,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-5373ea0231",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=uws-uNbd7dY",
+      "title": "JANE AIR — Junk (Remastered 2023)",
+      "artist": "",
+      "uploader": "JANE AIR",
+      "durationMs": 208000,
+      "score": 0.722,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-4d414e5168",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=nHspX4SGKrI",
+      "title": "Jane Air - Junk (караоке)",
+      "artist": "",
+      "uploader": "Михаил Вечный",
+      "durationMs": 214000,
+      "score": 0.658,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-bc25e05714",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=j_KZtHZ86lQ",
+      "title": "Jane Air (Feat. Smike) - Junk (The Boys Season 3)",
+      "artist": "",
+      "uploader": "signal // directive",
+      "durationMs": 209000,
+      "score": 0.631,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-94072e138e",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=nm-lB0tcR1E",
+      "title": "Junk feat Smike / THE BOYS temporada 3",
+      "artist": "",
+      "uploader": "el wey de los SOUNDTRACKS",
+      "durationMs": 204000,
+      "score": 0.631,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-80f6d91437",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=s1xTq-FQaN0",
+      "title": "Jane Air-Junk with english subtitles (Ost The Boys- Season 3 episode 4)",
+      "artist": "",
+      "uploader": "New Scherbinka prod.",
+      "durationMs": 209000,
+      "score": 0.623,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-31cf782672",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=lpDOUGlwGHQ",
+      "title": "The Boys Season 3 Episode 4 End Credits Song: \"Junk\"",
+      "artist": "",
+      "uploader": "AESTHETIC WAVES",
+      "durationMs": 209000,
+      "score": 0.623,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    }
+  ],
+  "warnings": [],
+  "note": "Поиск завершён. Выберите запись в аддоне и отправьте на проверку.",
   "issueNumber": 1,
   "issueUrl": "https://github.com/xaundz/stupidcensor-cloud/issues/1",
   "requestedBy": "xaundz"
