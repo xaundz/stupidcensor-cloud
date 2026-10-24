@@ -10,9 +10,10 @@
   "trackArtist": "Ежемесячные",
   "trackDurationMs": 163000,
   "createdAt": "2026-10-24T14:38:02Z",
-  "updatedAt": "2026-10-24T14:38:02Z",
-  "expiresAt": "2026-10-31T14:38:02Z",
+  "updatedAt": "2026-10-24T14:38:07Z",
+  "expiresAt": "2026-10-31T14:38:07Z",
   "etaSeconds": 75,
   "startedAt": "2026-10-24T14:38:02Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40103306008"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40103306008",
+  "note": "Источник недоступен: YouTube требует вход с IP GitHub Actions. Добавьте cookies в секрет YTDLP_COOKIES или выберите SoundCloud. Пробую резервный вариант «Round 1»."
 }
