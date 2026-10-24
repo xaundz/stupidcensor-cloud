@@ -139,7 +139,33 @@
       },
       "addedAt": "2026-10-23T20:40:51Z",
       "updatedAt": "2026-10-23T20:40:51Z"
+    },
+    "68868847": {
+      "trackId": "68868847",
+      "title": "Round 1",
+      "artists": [
+        "Ежемесячные"
+      ],
+      "durationMs": 162000,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/68868847-30c4f2e6-0ef8-4fe1-afcb-a886d4873e19-f6e8c8f1f24548ddb92e91628cffe7c9.m4a",
+      "assetName": "68868847-30c4f2e6-0ef8-4fe1-afcb-a886d4873e19-f6e8c8f1f24548ddb92e91628cffe7c9.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "youtube",
+        "pageUrl": "https://www.youtube.com/watch?v=9IaSG3z9gA8",
+        "title": "Раунд 1",
+        "artist": "",
+        "uploader": "Ежемесячные - Topic",
+        "durationMs": 162000,
+        "score": 0.654,
+        "warnings": [
+          "автоматическая проверка не гарантирует отсутствие цензуры"
+        ]
+      },
+      "addedAt": "2026-10-24T20:24:46Z",
+      "updatedAt": "2026-10-24T20:24:46Z"
     }
   },
-  "updatedAt": "2026-10-24T15:30:12Z"
+  "updatedAt": "2026-10-24T20:24:46Z"
 }
