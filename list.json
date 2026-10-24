@@ -167,7 +167,34 @@
       },
       "addedAt": "2026-10-23T20:47:27Z",
       "updatedAt": "2026-10-23T20:47:27Z"
+    },
+    "68868847": {
+      "trackId": "68868847",
+      "title": "Round 1",
+      "artists": [
+        "Ежемесячные"
+      ],
+      "durationMs": 158000,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/68868847.m4a",
+      "assetName": "68868847.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "dailymotion",
+        "pageUrl": "https://www.dailymotion.com/video/x8o6k1",
+        "title": "Round 1",
+        "artist": "",
+        "uploader": "lza1977",
+        "durationMs": 158000,
+        "score": 0.879,
+        "warnings": [
+          "автор загрузившего не совпадает",
+          "автоматическая проверка не гарантирует отсутствие цензуры"
+        ]
+      },
+      "addedAt": "2026-10-24T14:28:29Z",
+      "updatedAt": "2026-10-24T14:28:29Z"
     }
   },
-  "updatedAt": "2026-10-23T20:47:27Z"
+  "updatedAt": "2026-10-24T14:28:29Z"
 }
