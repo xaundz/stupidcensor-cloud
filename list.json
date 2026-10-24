@@ -140,34 +140,6 @@
       "addedAt": "2026-10-23T20:40:51Z",
       "updatedAt": "2026-10-23T20:40:51Z"
     },
-    "77143804": {
-      "trackId": "77143804",
-      "title": "Degenerat",
-      "artists": [
-        "Джарахов",
-        "MORGENSHTERN"
-      ],
-      "durationMs": 87000,
-      "enabled": true,
-      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/77143804.m4a",
-      "assetName": "77143804.m4a",
-      "releaseTag": "library",
-      "source": {
-        "provider": "soundcloud",
-        "pageUrl": "https://soundcloud.com/user-332368739/dzharakhov-morgenshtern-degenerat-deluxe-beat",
-        "title": "Джарахов, MORGENSHTERN - Дегенерат DELUXE (Beat)",
-        "artist": "",
-        "uploader": "OFF NINE // BEWERLY GUAPO",
-        "durationMs": 87000,
-        "score": 0.709,
-        "warnings": [
-          "автор загрузившего не совпадает",
-          "автоматическая проверка не гарантирует отсутствие цензуры"
-        ]
-      },
-      "addedAt": "2026-10-23T20:47:27Z",
-      "updatedAt": "2026-10-23T20:47:27Z"
-    },
     "68868847": {
       "trackId": "68868847",
       "title": "Round 1",
@@ -196,5 +168,5 @@
       "updatedAt": "2026-10-24T14:28:29Z"
     }
   },
-  "updatedAt": "2026-10-24T14:28:29Z"
+  "updatedAt": "2026-10-24T14:30:30Z"
 }
