@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "ed46cc63-7838-4ec7-9303-d47a060d1a0b",
   "action": "remove",
-  "status": "running",
+  "status": "removed",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "68868847",
@@ -10,9 +10,10 @@
   "trackArtist": "",
   "trackDurationMs": 0,
   "createdAt": "2026-10-24T14:37:50Z",
-  "updatedAt": "2026-10-24T14:37:50Z",
-  "expiresAt": "2026-10-31T14:37:50Z",
+  "updatedAt": "2026-10-24T14:37:52Z",
+  "expiresAt": "2026-10-31T14:37:52Z",
   "etaSeconds": 6,
   "startedAt": "2026-10-24T14:37:50Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40103319114"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40103319114",
+  "note": "Аудиофайлы трека удалены из Releases."
 }
