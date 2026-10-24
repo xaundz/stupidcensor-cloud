@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "f25a684a-6378-449a-917f-b57ef6a92488",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "68868847",
@@ -10,9 +10,153 @@
   "trackArtist": "Ежемесячные",
   "trackDurationMs": 158000,
   "createdAt": "2026-10-24T14:26:16Z",
-  "updatedAt": "2026-10-24T14:26:16Z",
-  "expiresAt": "2026-10-31T14:26:16Z",
+  "updatedAt": "2026-10-24T14:26:28Z",
+  "expiresAt": "2026-10-31T14:26:28Z",
   "etaSeconds": 45,
   "startedAt": "2026-10-24T14:26:16Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40102469954"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40102469954",
+  "candidates": [
+    {
+      "id": "cand-3a039abc62",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/iezhiemiesiachnyie/round-1",
+      "title": "Round 1",
+      "artist": "",
+      "uploader": "ЕЖЕМЕСЯЧНЫЕ",
+      "durationMs": 157000,
+      "score": 0.999,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-327ef3ab8c",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=HueUyFQm93I",
+      "title": "Round 1",
+      "artist": "",
+      "uploader": "Ежемесячные - Topic",
+      "durationMs": 158000,
+      "score": 0.976,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-4250df8a73",
+      "provider": "dailymotion",
+      "pageUrl": "https://www.dailymotion.com/video/x8o6k1",
+      "title": "Round 1",
+      "artist": "",
+      "uploader": "lza1977",
+      "durationMs": 157000,
+      "score": 0.879,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-2a36093176",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/needitorkeepit/percatric-round-1",
+      "title": "Percatric Round 1",
+      "artist": "",
+      "uploader": "Need It or Keep It",
+      "durationMs": 138000,
+      "score": 0.763,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 20 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-8cf9c800c2",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=9IaSG3z9gA8",
+      "title": "Раунд 1",
+      "artist": "",
+      "uploader": "Ежемесячные - Topic",
+      "durationMs": 163000,
+      "score": 0.654,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-178278e065",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=Xa4FwG3essQ",
+      "title": "Раунд 2",
+      "artist": "",
+      "uploader": "Ежемесячные - Topic",
+      "durationMs": 148000,
+      "score": 0.651,
+      "warnings": [
+        "длительность отличается на 10 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-2fc6d0b753",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=d7VnWGKlpmg",
+      "title": "ежемесячные - горе луковое [текст песни]",
+      "artist": "",
+      "uploader": "margo",
+      "durationMs": 141000,
+      "score": 0.458,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 17 с",
+        "слабое совпадение названия",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-16ba23bf34",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=AgQTSN8zepM",
+      "title": "Ежемесячные(Слава/Саша) - Мимо дома своего",
+      "artist": "",
+      "uploader": "margo",
+      "durationMs": 151000,
+      "score": 0.445,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "слабое совпадение названия",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-0d8788eb20",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=9dezk2t6BBQ",
+      "title": "РВАТЬ НА БИТАХ ЕЖЕМЕСЯЧНЫЕ , ОДИНОЧНЫЙ РАУНД СЛАВА КПСС",
+      "artist": "",
+      "uploader": "Battle-Rap",
+      "durationMs": 161000,
+      "score": 0.38,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "слабое совпадение названия",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
