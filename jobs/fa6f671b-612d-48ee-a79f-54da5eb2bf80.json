@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "fa6f671b-612d-48ee-a79f-54da5eb2bf80",
   "action": "confirm",
-  "status": "running",
+  "status": "published",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "68868847",
@@ -10,10 +10,16 @@
   "trackArtist": "Ежемесячные",
   "trackDurationMs": 163000,
   "createdAt": "2026-10-24T14:32:20Z",
-  "updatedAt": "2026-10-24T14:32:24Z",
-  "expiresAt": "2026-10-31T14:32:24Z",
+  "updatedAt": "2026-10-24T14:32:34Z",
+  "expiresAt": "2026-10-31T14:32:34Z",
   "etaSeconds": 75,
   "startedAt": "2026-10-24T14:32:20Z",
   "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40102906621",
-  "note": "Источник недоступен: YouTube требует вход с IP GitHub Actions. Добавьте cookies в секрет YTDLP_COOKIES или выберите SoundCloud. Пробую резервный вариант «Round 1»."
+  "published": {
+    "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/68868847.m4a",
+    "assetName": "68868847.m4a"
+  },
+  "candidateId": "cand-4250df8a73",
+  "sourceJobId": "f25a684a-6378-449a-917f-b57ef6a92488",
+  "note": "Основной источник не подошёл. Использован резервный: «Round 1». Раунд 1: YouTube требует вход с IP GitHub Actions. Добавьте cookies в секрет YTDLP_COOKIES или выберите SoundCloud."
 }
