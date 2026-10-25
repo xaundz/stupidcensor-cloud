@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "d1134644-3c02-4d90-a5b7-6a58db9bacaa",
   "action": "confirm",
-  "status": "running",
+  "status": "published",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "86505292",
@@ -10,9 +10,15 @@
   "trackArtist": "ЗАМАЙ, Слава КПСС",
   "trackDurationMs": 211000,
   "createdAt": "2026-10-25T14:06:33Z",
-  "updatedAt": "2026-10-25T14:06:33Z",
-  "expiresAt": "2026-11-01T14:06:33Z",
+  "updatedAt": "2026-10-25T14:06:46Z",
+  "expiresAt": "2026-11-01T14:06:46Z",
   "etaSeconds": 75,
   "startedAt": "2026-10-25T14:06:33Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40200647546"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40200647546",
+  "published": {
+    "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/86505292-d1134644-3c02-4d90-a5b7-6a58db9bacaa-923ec6dce0d64dcc807c1ce6f7693859.m4a",
+    "assetName": "86505292-d1134644-3c02-4d90-a5b7-6a58db9bacaa-923ec6dce0d64dcc807c1ce6f7693859.m4a"
+  },
+  "candidateId": "cand-bd46d19a4c",
+  "sourceJobId": "30342749-4e62-47bf-b4c5-c913249120b1"
 }
