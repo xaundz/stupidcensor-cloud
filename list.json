@@ -165,7 +165,35 @@
       },
       "addedAt": "2026-10-24T20:24:46Z",
       "updatedAt": "2026-10-24T20:24:46Z"
+    },
+    "86505292": {
+      "trackId": "86505292",
+      "title": "Двуглавый орёл",
+      "artists": [
+        "ЗАМАЙ",
+        "Слава КПСС"
+      ],
+      "durationMs": 212000,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/86505292-d1134644-3c02-4d90-a5b7-6a58db9bacaa-923ec6dce0d64dcc807c1ce6f7693859.m4a",
+      "assetName": "86505292-d1134644-3c02-4d90-a5b7-6a58db9bacaa-923ec6dce0d64dcc807c1ce6f7693859.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/filthdirtklib3rt/dvuglavyy-oryol",
+        "title": "Двуглавый орёл (кпсс&замай)",
+        "artist": "",
+        "uploader": "filthdirtklib3rt",
+        "durationMs": 212000,
+        "score": 0.817,
+        "warnings": [
+          "автор загрузившего не совпадает",
+          "автоматическая проверка не гарантирует отсутствие цензуры"
+        ]
+      },
+      "addedAt": "2026-10-25T14:06:44Z",
+      "updatedAt": "2026-10-25T14:06:44Z"
     }
   },
-  "updatedAt": "2026-10-24T20:24:46Z"
+  "updatedAt": "2026-10-25T14:06:44Z"
 }
