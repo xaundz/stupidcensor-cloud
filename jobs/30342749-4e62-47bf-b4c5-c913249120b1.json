@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "30342749-4e62-47bf-b4c5-c913249120b1",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "86505292",
@@ -10,9 +10,185 @@
   "trackArtist": "ЗАМАЙ, Слава КПСС",
   "trackDurationMs": 212000,
   "createdAt": "2026-10-25T14:03:02Z",
-  "updatedAt": "2026-10-25T14:03:02Z",
-  "expiresAt": "2026-11-01T14:03:02Z",
+  "updatedAt": "2026-10-25T14:03:07Z",
+  "expiresAt": "2026-11-01T14:03:07Z",
   "etaSeconds": 45,
   "startedAt": "2026-10-25T14:03:02Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40200402516"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40200402516",
+  "candidates": [
+    {
+      "id": "cand-b750fe0460",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/zamai-music/znetlmy4vgxg",
+      "title": "Двуглавый орёл",
+      "artist": "",
+      "uploader": "ЗАМАЙ",
+      "durationMs": 211000,
+      "score": 0.968,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-df24be35a0",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=sEGq5cbDVO4",
+      "title": "Двуглавый орёл – ЗАМАЙ & Слава КПСС",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 212000,
+      "score": 0.888,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-4c34648bd5",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=dh_TPlOFWLM",
+      "title": "СЛАВА КПСС & ХАН ЗАМАЙ — ДВУГЛАВЫЙ ОРЁЛ (ПРЕМЬЕРА 2030)",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 199000,
+      "score": 0.861,
+      "warnings": [
+        "длительность отличается на 13 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-204a858e2e",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=HzJvcJYfqpQ",
+      "title": "Караоке Двуглавый орёл - ЗАМАЙ, Слава КПСС",
+      "artist": "",
+      "uploader": "Караоке Антихайп",
+      "durationMs": 212000,
+      "score": 0.858,
+      "warnings": [
+        "инструментальная версия",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-0c69a144f1",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=4flPXU_wicE",
+      "title": "Слава КПСС, Замай - Двуглавый орёл (концерт)",
+      "artist": "",
+      "uploader": "Arseny Markov",
+      "durationMs": 192000,
+      "score": 0.827,
+      "warnings": [
+        "концертная запись",
+        "автор загрузившего не совпадает",
+        "длительность отличается на 20 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-6cebaec69d",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=RsCxgwrr1xw",
+      "title": "ЗАМАЙ, Слава КПСС - Двуглавый орёл (концерт)",
+      "artist": "",
+      "uploader": "Arseny Markov",
+      "durationMs": 191000,
+      "score": 0.826,
+      "warnings": [
+        "концертная запись",
+        "автор загрузившего не совпадает",
+        "длительность отличается на 21 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-bd46d19a4c",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/filthdirtklib3rt/dvuglavyy-oryol",
+      "title": "Двуглавый орёл (кпсс&замай)",
+      "artist": "",
+      "uploader": "filthdirtklib3rt",
+      "durationMs": 211000,
+      "score": 0.817,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-ee9e9c1562",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=Pk5fdUn4xR8",
+      "title": "ЗАМАЙ, Слава КПСС - Двуглавый Орел | караоке | минус | инструментал",
+      "artist": "",
+      "uploader": "УДОМЛЯ",
+      "durationMs": 218000,
+      "score": 0.782,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-2be6ad9edc",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=wl6I-MK8_0Q",
+      "title": "ХАН ЗАМАЙ, СЛАВА КПСС — ДВУГЛАВЫЙ ОРЁЛ / 04.12.22",
+      "artist": "",
+      "uploader": "THEPCTR",
+      "durationMs": 208000,
+      "score": 0.743,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-977a49fa48",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=QovjT1fzOEw",
+      "title": "ЗАМАЙ x Слава КПСС x Jasper Byrne - Двуглавый орел в Miami (mashup)",
+      "artist": "",
+      "uploader": "shishqqa",
+      "durationMs": 228000,
+      "score": 0.702,
+      "warnings": [
+        "ремикс",
+        "автор загрузившего не совпадает",
+        "длительность отличается на 16 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-61f559b99a",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/dahz-971704068/dvuglavyy-orel-v-miami",
+      "title": "ЗАМАЙ x Слава КПСС x Jasper Byrne - Двуглавый орел в Miami (mashup)",
+      "artist": "",
+      "uploader": "shishqqa",
+      "durationMs": 234000,
+      "score": 0.699,
+      "warnings": [
+        "ремикс",
+        "автор загрузившего не совпадает",
+        "длительность отличается на 22 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
