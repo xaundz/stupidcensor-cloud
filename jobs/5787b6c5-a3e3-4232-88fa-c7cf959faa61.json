@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "5787b6c5-a3e3-4232-88fa-c7cf959faa61",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "118111186",
@@ -10,9 +10,162 @@
   "trackArtist": "BOOKER",
   "trackDurationMs": 121000,
   "createdAt": "2026-10-25T16:32:11Z",
-  "updatedAt": "2026-10-25T16:32:11Z",
-  "expiresAt": "2026-11-01T16:32:11Z",
+  "updatedAt": "2026-10-25T16:32:16Z",
+  "expiresAt": "2026-11-01T16:32:16Z",
   "etaSeconds": 45,
   "startedAt": "2026-10-25T16:32:11Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40212127790"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40212127790",
+  "candidates": [
+    {
+      "id": "cand-90731d3559",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/booker-sc/xvatit",
+      "title": "Хватит",
+      "artist": "",
+      "uploader": "BOOKER",
+      "durationMs": 121000,
+      "score": 1.0,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-0f7e01f6f7",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=YlypQTXJXDY",
+      "title": "Хватит",
+      "artist": "",
+      "uploader": "FEDYA BOOKER",
+      "durationMs": 122000,
+      "score": 0.975,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-ba427ed2dd",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/polina-kurnaeva/booker-xvatit",
+      "title": "booker - хватит",
+      "artist": "",
+      "uploader": "ripmyfxce",
+      "durationMs": 115000,
+      "score": 0.891,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-a5783917d3",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/vanya-800250277/booker-khvatit-5",
+      "title": "BOOKER - ХВАТИТ",
+      "artist": "",
+      "uploader": "МС Белгород",
+      "durationMs": 119000,
+      "score": 0.878,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-e9b2944441",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=Dn3YSy4q9QI",
+      "title": "Хватит – BOOKER (минус)",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 122000,
+      "score": 0.775,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-10ef837515",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=qgPh8TVBh6Y",
+      "title": "Букер – Хватит (без цензуры)",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 122000,
+      "score": 0.645,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-baa463e815",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=AJW0bqJsr6c",
+      "title": "BOOKER - Жилы (клип)",
+      "artist": "",
+      "uploader": "FEDYA BOOKER",
+      "durationMs": 138000,
+      "score": 0.612,
+      "warnings": [
+        "длительность отличается на 17 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-0a7198eab8",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=UlO7mOx8ErQ",
+      "title": "BOOKER — Синий/Трезв (ВИДЕО)",
+      "artist": "",
+      "uploader": "FEDYA BOOKER",
+      "durationMs": 121000,
+      "score": 0.575,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-a7d296e0b9",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=hJoKN5xU194",
+      "title": "Мёртвый",
+      "artist": "",
+      "uploader": "FEDYA BOOKER",
+      "durationMs": 125000,
+      "score": 0.505,
+      "warnings": [
+        "слабое совпадение названия",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-5d7fe4e939",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=YJNF4nYkCQA",
+      "title": "Бога больше нет",
+      "artist": "",
+      "uploader": "FEDYA BOOKER",
+      "durationMs": 137000,
+      "score": 0.469,
+      "warnings": [
+        "длительность отличается на 16 с",
+        "слабое совпадение названия",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
