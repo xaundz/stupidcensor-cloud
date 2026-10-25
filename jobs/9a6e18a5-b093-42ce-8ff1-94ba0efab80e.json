@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "9a6e18a5-b093-42ce-8ff1-94ba0efab80e",
+  "action": "search",
+  "status": "running",
+  "repo": "xaundz/stupidcensor-cloud",
+  "branch": "main",
+  "trackId": "118111190",
+  "trackTitle": "Крутые парни",
+  "trackArtist": "BOOKER",
+  "trackDurationMs": 192000,
+  "createdAt": "2026-10-25T14:09:19Z",
+  "updatedAt": "2026-10-25T14:09:19Z",
+  "expiresAt": "2026-11-01T14:09:19Z",
+  "etaSeconds": 45,
+  "startedAt": "2026-10-25T14:09:19Z",
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40200875554"
+}
