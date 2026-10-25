@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "d1134644-3c02-4d90-a5b7-6a58db9bacaa",
+  "action": "confirm",
+  "status": "running",
+  "repo": "xaundz/stupidcensor-cloud",
+  "branch": "main",
+  "trackId": "86505292",
+  "trackTitle": "Двуглавый орёл",
+  "trackArtist": "ЗАМАЙ, Слава КПСС",
+  "trackDurationMs": 211000,
+  "createdAt": "2026-10-25T14:06:33Z",
+  "updatedAt": "2026-10-25T14:06:33Z",
+  "expiresAt": "2026-11-01T14:06:33Z",
+  "etaSeconds": 75,
+  "startedAt": "2026-10-25T14:06:33Z",
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40200647546"
+}
