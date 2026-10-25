@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "9a6e18a5-b093-42ce-8ff1-94ba0efab80e",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "118111190",
@@ -10,9 +10,193 @@
   "trackArtist": "BOOKER",
   "trackDurationMs": 192000,
   "createdAt": "2026-10-25T14:09:19Z",
-  "updatedAt": "2026-10-25T14:09:19Z",
-  "expiresAt": "2026-11-01T14:09:19Z",
+  "updatedAt": "2026-10-25T14:09:27Z",
+  "expiresAt": "2026-11-01T14:09:27Z",
   "etaSeconds": 45,
   "startedAt": "2026-10-25T14:09:19Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40200875554"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40200875554",
+  "candidates": [
+    {
+      "id": "cand-e9f063ddc2",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/booker-sc/krutye-parni",
+      "title": "Крутые парни",
+      "artist": "",
+      "uploader": "BOOKER",
+      "durationMs": 192000,
+      "score": 1.0,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-e4c3706b3b",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=2c57VYFjsdw",
+      "title": "Крутые парни",
+      "artist": "",
+      "uploader": "FEDYA BOOKER",
+      "durationMs": 193000,
+      "score": 0.975,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-7ac610f92c",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/conteral381/krutye-parni-booker-1",
+      "title": "Крутые парни - Booker",
+      "artist": "",
+      "uploader": "Conteral381",
+      "durationMs": 190000,
+      "score": 0.921,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-588eb9a62f",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/vanya-800250277/booker-krutye-parni-9",
+      "title": "BOOKER - КРУТЫЕ ПАРНИ",
+      "artist": "",
+      "uploader": "МС Белгород",
+      "durationMs": 189000,
+      "score": 0.878,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-13512a8a00",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=RtpEd67kF_g",
+      "title": "Крутые парни – BOOKER (минус)",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 193000,
+      "score": 0.801,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-39467e982c",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/dj-nybik-bybik/mishanya-i-vityok-krutye-parni",
+      "title": "Мишаня и Витёк крутые парни!",
+      "artist": "",
+      "uploader": "DJ.nybik bybik",
+      "durationMs": 211000,
+      "score": 0.707,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 19 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-0655f0032b",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/turbosh/turbosh-ella-krutie-parni-krutye-parni-8",
+      "title": "Turbosh, ELLA - KRUTIE PARNI / КРУТЫЕ ПАРНИ",
+      "artist": "",
+      "uploader": "Turbosh",
+      "durationMs": 195000,
+      "score": 0.707,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-0d00c14087",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=QXVpcgcvUC0",
+      "title": "BOOKER - КРУТЫЕ ПАРНИ (клип) | ФРАКЦИЯ x НРП",
+      "artist": "",
+      "uploader": "Фракция",
+      "durationMs": 204000,
+      "score": 0.695,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 12 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-b3d0c71ffd",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=svUArDMTSgg",
+      "title": "Букер – Крутые парни (без цензуры)",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 193000,
+      "score": 0.692,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-9327ef29b7",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=Re79eYks6LQ",
+      "title": "BOOKER — Крутые парни (22.10.23, @Ласточка, Санкт-Петербург)",
+      "artist": "",
+      "uploader": "Kseniya Nekrasova",
+      "durationMs": 187000,
+      "score": 0.68,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-f7e0c69680",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=b1rvYU4jb4E",
+      "title": "Booker-Хороший парень live 16.07",
+      "artist": "",
+      "uploader": "Daniil wok1",
+      "durationMs": 202000,
+      "score": 0.521,
+      "warnings": [
+        "концертная запись",
+        "автор загрузившего не совпадает",
+        "длительность отличается на 10 с",
+        "слабое совпадение названия",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-b748195462",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=NxKzOn3FOuE",
+      "title": "Ты утонула в моём одиночестве",
+      "artist": "",
+      "uploader": "FEDYA BOOKER",
+      "durationMs": 194000,
+      "score": 0.39,
+      "warnings": [
+        "слабое совпадение названия",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
