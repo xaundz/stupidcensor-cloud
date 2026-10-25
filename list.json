@@ -193,7 +193,34 @@
       },
       "addedAt": "2026-10-25T14:06:44Z",
       "updatedAt": "2026-10-25T14:06:44Z"
+    },
+    "118111186": {
+      "trackId": "118111186",
+      "title": "Хватит",
+      "artists": [
+        "BOOKER"
+      ],
+      "durationMs": 116000,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/118111186-3a75ebba-4947-4bd6-931f-a2b5018a9d9a-7b4042fbda3e4ff49874feefe6f82b0a.m4a",
+      "assetName": "118111186-3a75ebba-4947-4bd6-931f-a2b5018a9d9a-7b4042fbda3e4ff49874feefe6f82b0a.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/polina-kurnaeva/booker-xvatit",
+        "title": "booker - хватит",
+        "artist": "",
+        "uploader": "ripmyfxce",
+        "durationMs": 116000,
+        "score": 0.891,
+        "warnings": [
+          "автор загрузившего не совпадает",
+          "автоматическая проверка не гарантирует отсутствие цензуры"
+        ]
+      },
+      "addedAt": "2026-10-25T16:58:39Z",
+      "updatedAt": "2026-10-25T16:58:39Z"
     }
   },
-  "updatedAt": "2026-10-25T14:06:44Z"
+  "updatedAt": "2026-10-25T16:58:39Z"
 }
