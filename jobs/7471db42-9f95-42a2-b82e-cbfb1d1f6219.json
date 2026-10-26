@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "7471db42-9f95-42a2-b82e-cbfb1d1f6219",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "86505296",
@@ -10,9 +10,190 @@
   "trackArtist": "ЗАМАЙ, Слава КПСС",
   "trackDurationMs": 195000,
   "createdAt": "2026-10-26T21:07:43Z",
-  "updatedAt": "2026-10-26T21:07:43Z",
-  "expiresAt": "2026-11-02T21:07:43Z",
+  "updatedAt": "2026-10-26T21:07:52Z",
+  "expiresAt": "2026-11-02T21:07:52Z",
   "etaSeconds": 45,
   "startedAt": "2026-10-26T21:07:43Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40401658266"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40401658266",
+  "candidates": [
+    {
+      "id": "cand-5fc0782f49",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/zamai-music/u1ysrmyndgz8",
+      "title": "Пати",
+      "artist": "",
+      "uploader": "ЗАМАЙ",
+      "durationMs": 195000,
+      "score": 0.968,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-b947f2d46f",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/sniffy-977662784/zamai-slava-kpss-pati",
+      "title": "ЗАМАЙ, СЛАВА КПСС – Пати",
+      "artist": "",
+      "uploader": "мизсвард",
+      "durationMs": 195000,
+      "score": 0.92,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-9ea10445ed",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=LZoKWnwCkM4",
+      "title": "Пати – ЗАМАЙ & Слава КПСС",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 196000,
+      "score": 0.887,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-08cc74aa2e",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/odfpyuvejmeo/dowzicuwqmti",
+      "title": "ЗАМАЙ, СЛАВА КПСС - Пати",
+      "artist": "",
+      "uploader": "GGJ",
+      "durationMs": 195000,
+      "score": 0.88,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-76aa58f23c",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=CPv7jrco5s0",
+      "title": "СЛАВА КПСС & ХАН ЗАМАЙ - ПАТИ (OFFICIAL VIDEO)",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 197000,
+      "score": 0.849,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-57b5f32437",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=wF6FnNM7ujo",
+      "title": "Караоке Пати — ЗАМАЙ, Слава КПСС",
+      "artist": "",
+      "uploader": "Караоке Антихайп",
+      "durationMs": 196000,
+      "score": 0.847,
+      "warnings": [
+        "инструментальная версия",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-bc0a829431",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=wOqMhj-aUfg",
+      "title": "(МИНУС) ЗАМАЙ, СЛАВА КПСС — ПАТИ",
+      "artist": "",
+      "uploader": "FIJIYAMA",
+      "durationMs": 200000,
+      "score": 0.815,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-b6bd36b77e",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/filthdirtklib3rt/pati",
+      "title": "Пати (кпсс&замай)",
+      "artist": "",
+      "uploader": "filthdirtklib3rt",
+      "durationMs": 195000,
+      "score": 0.802,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-db2850628d",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=oRpF7ZSwqNI",
+      "title": "ЗАМАЙ, СЛАВА КПСС — ПАТИ / АНТИХАЙП-ФЕСТИВАЛЬ",
+      "artist": "",
+      "uploader": "THEPCTR",
+      "durationMs": 195000,
+      "score": 0.776,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-e65542a366",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=esELmHfz7gM",
+      "title": "ЗАМАЙ, Слава КПСС - Пати | караоке | минус | инструментал",
+      "artist": "",
+      "uploader": "УДОМЛЯ",
+      "durationMs": 199000,
+      "score": 0.766,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-9965670208",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=GJCCtPp7txA",
+      "title": "ХАН ЗАМАЙ, СЛАВА КПСС — ПАТИ / 04.12.22",
+      "artist": "",
+      "uploader": "THEPCTR",
+      "durationMs": 195000,
+      "score": 0.724,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-8efb12acab",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=7bjWXmNZeD8",
+      "title": "ЗАМАЙ x СЛАВА КПСС — ПАТИ / 25.06.22",
+      "artist": "",
+      "uploader": "THEPCTR",
+      "durationMs": 201000,
+      "score": 0.721,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
