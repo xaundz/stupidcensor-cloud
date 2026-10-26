@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "326f15f1-c20f-4015-9865-2e9a15575ed7",
   "action": "confirm",
-  "status": "running",
+  "status": "published",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "142948928",
@@ -10,9 +10,15 @@
   "trackArtist": "BOOKER, appledream",
   "trackDurationMs": 167000,
   "createdAt": "2026-10-26T13:10:37Z",
-  "updatedAt": "2026-10-26T13:10:37Z",
-  "expiresAt": "2026-11-02T13:10:37Z",
+  "updatedAt": "2026-10-26T13:10:48Z",
+  "expiresAt": "2026-11-02T13:10:48Z",
   "etaSeconds": 75,
   "startedAt": "2026-10-26T13:10:37Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40328223681"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40328223681",
+  "published": {
+    "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/142948928-326f15f1-c20f-4015-9865-2e9a15575ed7-c7d9483e3d884f3b9e3f5f18f692db58.m4a",
+    "assetName": "142948928-326f15f1-c20f-4015-9865-2e9a15575ed7-c7d9483e3d884f3b9e3f5f18f692db58.m4a"
+  },
+  "candidateId": "cand-5e375f30a1",
+  "sourceJobId": "fb91239f-e1b8-403f-ab7f-c2dc0ff6f6b2"
 }
