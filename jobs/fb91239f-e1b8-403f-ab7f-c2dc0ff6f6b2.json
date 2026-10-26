@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "fb91239f-e1b8-403f-ab7f-c2dc0ff6f6b2",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "142948928",
@@ -10,9 +10,134 @@
   "trackArtist": "BOOKER, appledream",
   "trackDurationMs": 170000,
   "createdAt": "2026-10-26T13:08:34Z",
-  "updatedAt": "2026-10-26T13:08:34Z",
-  "expiresAt": "2026-11-02T13:08:34Z",
+  "updatedAt": "2026-10-26T13:08:40Z",
+  "expiresAt": "2026-11-02T13:08:40Z",
   "etaSeconds": 45,
   "startedAt": "2026-10-26T13:08:34Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40328009999"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40328009999",
+  "candidates": [
+    {
+      "id": "cand-6a35b5b443",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/booker-sc/freestyle-1",
+      "title": "FREESTYLE 1",
+      "artist": "",
+      "uploader": "BOOKER",
+      "durationMs": 170000,
+      "score": 0.976,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-5e375f30a1",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/rusyarapscene/booker-x-appledream-freestyle-1-1",
+      "title": "BOOKER x appledream - FREESTYLE 1",
+      "artist": "",
+      "uploader": "Русская Рэп-Сцена",
+      "durationMs": 167000,
+      "score": 0.859,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-e8849f2ac3",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=kDJ9WUO1VkY",
+      "title": "BOOKER, appledream – FREESTYLE 1 / Московский Мул EP",
+      "artist": "",
+      "uploader": "FEDYA BOOKER",
+      "durationMs": 171000,
+      "score": 0.798,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-28f1b4edc7",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=0hUA753A6_4",
+      "title": "BOOKER, appledream – FREESTYLE 3 / Московский Мул EP",
+      "artist": "",
+      "uploader": "FEDYA BOOKER",
+      "durationMs": 150000,
+      "score": 0.715,
+      "warnings": [
+        "длительность отличается на 20 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-79b28873bf",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/lilkraeisdirtharry/booker-freestyle-mix1-prod-zedx",
+      "title": "BOOKER Freestyle Mix1 prod. ZEDX",
+      "artist": "",
+      "uploader": "KRAE",
+      "durationMs": 163000,
+      "score": 0.587,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-3a7abf6bed",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=J4mZ_7zzU5g",
+      "title": "BOOKER, appledream – ОБЕЗЬЯНА / Московский Мул EP",
+      "artist": "",
+      "uploader": "FEDYA BOOKER",
+      "durationMs": 166000,
+      "score": 0.556,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-9d74b91c05",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=YXYSm5agrn0",
+      "title": "BOOKER – Джанк / Время Колокольчиков",
+      "artist": "",
+      "uploader": "FEDYA BOOKER",
+      "durationMs": 158000,
+      "score": 0.375,
+      "warnings": [
+        "длительность отличается на 12 с",
+        "слабое совпадение названия",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-4b21c76345",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=0BokOhj61og",
+      "title": "BOOKER – За моих братьев и сестёр / Время Колокольчиков",
+      "artist": "",
+      "uploader": "FEDYA BOOKER",
+      "durationMs": 153000,
+      "score": 0.318,
+      "warnings": [
+        "длительность отличается на 17 с",
+        "слабое совпадение названия",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
