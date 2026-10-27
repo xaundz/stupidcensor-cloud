@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "04b7dda9-6ff6-4d2d-b139-72722dfdaf02",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "86505346",
@@ -10,9 +10,89 @@
   "trackArtist": "ЗАМАЙ, Слава КПСС",
   "trackDurationMs": 165000,
   "createdAt": "2026-10-27T21:31:53Z",
-  "updatedAt": "2026-10-27T21:31:53Z",
-  "expiresAt": "2026-11-03T21:31:53Z",
+  "updatedAt": "2026-10-27T21:31:59Z",
+  "expiresAt": "2026-11-03T21:31:59Z",
   "etaSeconds": 45,
   "startedAt": "2026-10-27T21:31:53Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40587510738"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40587510738",
+  "candidates": [
+    {
+      "id": "cand-76ab195e2e",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/zamai-music/wg5x34b7ovdp",
+      "title": "За****ал",
+      "artist": "",
+      "uploader": "ЗАМАЙ",
+      "durationMs": 165000,
+      "score": 0.968,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-ab13975a63",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=zmdB8dd2XOg",
+      "title": "За****ал",
+      "artist": "",
+      "uploader": "ЗАМАЙ",
+      "durationMs": 166000,
+      "score": 0.967,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-62efb7bd52",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=Y0vHpwvMx0U",
+      "title": "За****ал – ЗАМАЙ & Слава КПСС",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 166000,
+      "score": 0.887,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-cba8bfae86",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=zkyNLTOPKLg",
+      "title": "Слава КПСС, Замай – 040. Заторчал",
+      "artist": "",
+      "uploader": "Lpnl",
+      "durationMs": 166000,
+      "score": 0.589,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-bcbf34e5c2",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=gVPT0vsxjZY",
+      "title": "ХАН ЗАМАЙ,СЛАВА КПСС - Antihypeoutro (ANTIHYPETRAIN) КАРАОКЕ",
+      "artist": "",
+      "uploader": "100летБабанКапалКанал",
+      "durationMs": 162000,
+      "score": 0.515,
+      "warnings": [
+        "инструментальная версия",
+        "слабое совпадение названия",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
