@@ -248,7 +248,35 @@
       },
       "addedAt": "2026-10-26T13:10:47Z",
       "updatedAt": "2026-10-26T13:10:47Z"
+    },
+    "86505384": {
+      "trackId": "86505384",
+      "title": "АК",
+      "artists": [
+        "ЗАМАЙ",
+        "Слава КПСС"
+      ],
+      "durationMs": 230000,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/86505384-fd41e60b-2716-40f4-8332-5e909bc86e9b-6ef97c575d9845dda4273a56bb41e349.m4a",
+      "assetName": "86505384-fd41e60b-2716-40f4-8332-5e909bc86e9b-6ef97c575d9845dda4273a56bb41e349.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/user-687349769/slava-kpss-zamay-ak",
+        "title": "слава кпсс замай - АК",
+        "artist": "",
+        "uploader": "gomopes",
+        "durationMs": 230000,
+        "score": 0.88,
+        "warnings": [
+          "автор загрузившего не совпадает",
+          "автоматическая проверка не гарантирует отсутствие цензуры"
+        ]
+      },
+      "addedAt": "2026-10-27T21:16:30Z",
+      "updatedAt": "2026-10-27T21:16:30Z"
     }
   },
-  "updatedAt": "2026-10-26T13:10:47Z"
+  "updatedAt": "2026-10-27T21:16:30Z"
 }
