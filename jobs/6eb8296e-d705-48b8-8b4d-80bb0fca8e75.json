@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "6eb8296e-d705-48b8-8b4d-80bb0fca8e75",
+  "action": "search",
+  "status": "running",
+  "repo": "xaundz/stupidcensor-cloud",
+  "branch": "main",
+  "trackId": "86505384",
+  "trackTitle": "АК",
+  "trackArtist": "ЗАМАЙ, Слава КПСС",
+  "trackDurationMs": 230000,
+  "createdAt": "2026-10-27T21:14:12Z",
+  "updatedAt": "2026-10-27T21:14:12Z",
+  "expiresAt": "2026-11-03T21:14:12Z",
+  "etaSeconds": 45,
+  "startedAt": "2026-10-27T21:14:12Z",
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40585013023"
+}
