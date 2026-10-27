@@ -332,7 +332,31 @@
       },
       "addedAt": "2026-10-27T21:31:26Z",
       "updatedAt": "2026-10-27T21:31:26Z"
+    },
+    "86505346": {
+      "trackId": "86505346",
+      "title": "За****ал",
+      "artists": [
+        "ЗАМАЙ",
+        "Слава КПСС"
+      ],
+      "durationMs": 165488,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/86505346-1893c8c3-47b7-4bda-91b8-ddc0de681970-74afbe50349c4dde8e1dae1789dc91c9.m4a",
+      "assetName": "86505346-1893c8c3-47b7-4bda-91b8-ddc0de681970-74afbe50349c4dde8e1dae1789dc91c9.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/filthdirtklib3rt/slava-kpss-zamay-zatorchal",
+        "title": "За****ал",
+        "artist": "ЗАМАЙ, Слава КПСС",
+        "uploader": "filthdirtklib3rt",
+        "durationMs": 165488,
+        "manual": true
+      },
+      "addedAt": "2026-10-27T21:37:59Z",
+      "updatedAt": "2026-10-27T21:37:59Z"
     }
   },
-  "updatedAt": "2026-10-27T21:31:26Z"
+  "updatedAt": "2026-10-27T21:37:59Z"
 }
