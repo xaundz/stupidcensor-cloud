@@ -304,7 +304,35 @@
       },
       "addedAt": "2026-10-27T21:23:30Z",
       "updatedAt": "2026-10-27T21:23:30Z"
+    },
+    "86505303": {
+      "trackId": "86505303",
+      "title": "Grime Vietnam",
+      "artists": [
+        "ЗАМАЙ",
+        "Слава КПСС"
+      ],
+      "durationMs": 181000,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/86505303-c72d670d-5fdb-4622-a02c-a1ac1b473b62-1944516ef4324756a13499fad18fbadd.m4a",
+      "assetName": "86505303-c72d670d-5fdb-4622-a02c-a1ac1b473b62-1944516ef4324756a13499fad18fbadd.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/madara-363382/zamay-slava-kpss-grime-vietnam",
+        "title": "ЗАМАЙ, Слава КПСС - Grime Vietnam",
+        "artist": "",
+        "uploader": "Madara",
+        "durationMs": 181000,
+        "score": 0.88,
+        "warnings": [
+          "автор загрузившего не совпадает",
+          "автоматическая проверка не гарантирует отсутствие цензуры"
+        ]
+      },
+      "addedAt": "2026-10-27T21:31:26Z",
+      "updatedAt": "2026-10-27T21:31:26Z"
     }
   },
-  "updatedAt": "2026-10-27T21:23:30Z"
+  "updatedAt": "2026-10-27T21:31:26Z"
 }
