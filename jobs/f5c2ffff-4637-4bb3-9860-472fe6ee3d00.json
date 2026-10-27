@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "f5c2ffff-4637-4bb3-9860-472fe6ee3d00",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "86505303",
@@ -10,9 +10,194 @@
   "trackArtist": "ЗАМАЙ, Слава КПСС",
   "trackDurationMs": 181000,
   "createdAt": "2026-10-27T21:29:11Z",
-  "updatedAt": "2026-10-27T21:29:11Z",
-  "expiresAt": "2026-11-03T21:29:11Z",
+  "updatedAt": "2026-10-27T21:29:18Z",
+  "expiresAt": "2026-11-03T21:29:18Z",
   "etaSeconds": 45,
   "startedAt": "2026-10-27T21:29:11Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40587148129"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40587148129",
+  "candidates": [
+    {
+      "id": "cand-bc818187a4",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/zamai-music/grime-vietnam",
+      "title": "Grime Vietnam",
+      "artist": "",
+      "uploader": "ЗАМАЙ",
+      "durationMs": 181000,
+      "score": 0.968,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-2e5b920fd6",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=N2-hf89XLVg",
+      "title": "Grime Vietnam",
+      "artist": "",
+      "uploader": "ЗАМАЙ",
+      "durationMs": 182000,
+      "score": 0.967,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-cd77eda007",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=Qcwv3UOKS60",
+      "title": "Grime Vietnam – ЗАМАЙ & Слава КПСС",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 182000,
+      "score": 0.887,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-a95a7dcf3a",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/madara-363382/zamay-slava-kpss-grime-vietnam",
+      "title": "ЗАМАЙ, Слава КПСС - Grime Vietnam",
+      "artist": "",
+      "uploader": "Madara",
+      "durationMs": 181000,
+      "score": 0.88,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-71c9ffb047",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=bcWFCRvYv_A",
+      "title": "ЗАМАЙ, Слава КПСС - Grime Vietnam cover SlavsterX",
+      "artist": "",
+      "uploader": "СлавстерХ | Вячеслав Шакалов",
+      "durationMs": 193000,
+      "score": 0.824,
+      "warnings": [
+        "кавер или перепевка",
+        "длительность отличается на 12 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-d5bc4a5e7d",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/filthdirtklib3rt/grime-vietnam",
+      "title": "Grime Vietnam (кпсс&замай)",
+      "artist": "",
+      "uploader": "filthdirtklib3rt",
+      "durationMs": 181000,
+      "score": 0.818,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-d306273eb7",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=HV_9N_TDvE8",
+      "title": "ЗАМАЙ, СЛАВА КПСС — GRIME VIETNAM / АНТИХАЙП-ФЕСТИВАЛЬ",
+      "artist": "",
+      "uploader": "THEPCTR",
+      "durationMs": 178000,
+      "score": 0.789,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-9bfaa51e6e",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=qy314Xrr0dY",
+      "title": "ЗАМАЙ, Слава КПСС - Grime Vietnam | караоке | минус | инструментал",
+      "artist": "",
+      "uploader": "УДОМЛЯ",
+      "durationMs": 191000,
+      "score": 0.779,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "длительность отличается на 10 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-053a005a9d",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=u-Iy45y50ME",
+      "title": "SUPERNATURAL - GRIME VIETNAM",
+      "artist": "",
+      "uploader": "gjcjcb",
+      "durationMs": 182000,
+      "score": 0.775,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-3b6d705b7c",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=_rcVVUeBFnU",
+      "title": "ЗАМАЙ x СЛАВА КПСС — GRIME VIETNAM / 25.06.22",
+      "artist": "",
+      "uploader": "THEPCTR",
+      "durationMs": 173000,
+      "score": 0.755,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-d4e1dd1b94",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=56_VgbCh05E",
+      "title": "ХАН ЗАМАЙ, СЛАВА КПСС — GRIME VIETNAM / 04.12.22",
+      "artist": "",
+      "uploader": "THEPCTR",
+      "durationMs": 178000,
+      "score": 0.74,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-453373391b",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=TifsqFEDMwo",
+      "title": "\"Grime Vietnam\" - Слава КПСС и Замай - Концерт 30.10.2022 в Москве",
+      "artist": "",
+      "uploader": "Barbara Vinegar",
+      "durationMs": 191000,
+      "score": 0.7,
+      "warnings": [
+        "концертная запись",
+        "автор загрузившего не совпадает",
+        "длительность отличается на 10 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
