@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "6eb8296e-d705-48b8-8b4d-80bb0fca8e75",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "86505384",
@@ -10,9 +10,191 @@
   "trackArtist": "ЗАМАЙ, Слава КПСС",
   "trackDurationMs": 230000,
   "createdAt": "2026-10-27T21:14:12Z",
-  "updatedAt": "2026-10-27T21:14:12Z",
-  "expiresAt": "2026-11-03T21:14:12Z",
+  "updatedAt": "2026-10-27T21:14:20Z",
+  "expiresAt": "2026-11-03T21:14:20Z",
   "etaSeconds": 45,
   "startedAt": "2026-10-27T21:14:12Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40585013023"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40585013023",
+  "candidates": [
+    {
+      "id": "cand-2908d98029",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=xa6KGih6Ovo",
+      "title": "АК",
+      "artist": "",
+      "uploader": "ЗАМАЙ",
+      "durationMs": 230000,
+      "score": 0.968,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-cc5de72ddb",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/zamai-music/3phy7i2zgqhu",
+      "title": "АК",
+      "artist": "",
+      "uploader": "ЗАМАЙ",
+      "durationMs": 229000,
+      "score": 0.968,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-cc6f66fc5d",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=R8Xi4CEpv-A",
+      "title": "АК – ЗАМАЙ & Слава КПСС",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 230000,
+      "score": 0.888,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-601e139571",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-687349769/slava-kpss-zamay-ak",
+      "title": "слава кпсс замай - АК",
+      "artist": "",
+      "uploader": "gomopes",
+      "durationMs": 229000,
+      "score": 0.88,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-59040e6423",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-665332244/9ax1ujj83n4h",
+      "title": "ЗАМАЙ, Слава КПСС - Кот",
+      "artist": "",
+      "uploader": "Vqva",
+      "durationMs": 223000,
+      "score": 0.817,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-1d17e2134c",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-665332244/cmrpqyrj23um",
+      "title": "ЗАМАЙ, Слава КПСС - Стадионы",
+      "artist": "",
+      "uploader": "Vqva",
+      "durationMs": 228000,
+      "score": 0.737,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-2b818877f0",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/oeqsgallceao/v1fw6owexm1q",
+      "title": "ЗАМАЙ, Слава КПСС - Перегруз",
+      "artist": "",
+      "uploader": "BogdanUSSR",
+      "durationMs": 240000,
+      "score": 0.698,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 10 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-3c35b85807",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/ymr6uxh4oskl/zlzf8yvuh6x8",
+      "title": "ЗАМАЙ- Слава КПСС - Ночная Травма",
+      "artist": "",
+      "uploader": "Srj Microchelik",
+      "durationMs": 238000,
+      "score": 0.677,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-2443d7b02a",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=aBUAeHTXqkw",
+      "title": "СЛАВА КПСС & ХАН ЗАМАЙ - ПОМИНАЛЬНЫЙ СВИНГ (ПРЕМЬЕРА КЛИПА 2021)",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 216000,
+      "score": 0.643,
+      "warnings": [
+        "длительность отличается на 14 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-1d373a120a",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=FQ9okwtYtzw",
+      "title": "СЛАВА КПСС & ХАН ЗАМАЙ - МЫ РАБОТАЕМ НА КРЕМЛЬ (ПРЕМЬЕРА 2021)",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 240000,
+      "score": 0.636,
+      "warnings": [
+        "длительность отличается на 10 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-27e4eba2e4",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-687349769/slava-kpss-dengi",
+      "title": "слава кпсс замай - Деньги",
+      "artist": "",
+      "uploader": "gomopes",
+      "durationMs": 246000,
+      "score": 0.631,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 16 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-3ecc3a7d0f",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-687349769/slava-kpss-zamay-nenavizhu-lyubov",
+      "title": "слава кпсс замай - Ненавижу Любовь",
+      "artist": "",
+      "uploader": "gomopes",
+      "durationMs": 222000,
+      "score": 0.604,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
