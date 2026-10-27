@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "eaf3181a-7874-4f4a-8569-6924b6e6b498",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "86505374",
@@ -10,9 +10,163 @@
   "trackArtist": "ЗАМАЙ, Слава КПСС",
   "trackDurationMs": 150000,
   "createdAt": "2026-10-27T21:21:56Z",
-  "updatedAt": "2026-10-27T21:21:56Z",
-  "expiresAt": "2026-11-03T21:21:56Z",
+  "updatedAt": "2026-10-27T21:22:02Z",
+  "expiresAt": "2026-11-03T21:22:02Z",
   "etaSeconds": 45,
   "startedAt": "2026-10-27T21:21:56Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40586127603"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40586127603",
+  "candidates": [
+    {
+      "id": "cand-e056751a31",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/zamai-music/grime",
+      "title": "Сделай мне Grime",
+      "artist": "",
+      "uploader": "ЗАМАЙ",
+      "durationMs": 150000,
+      "score": 0.968,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-5a305a8bd4",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=vpYw3gZDEuc",
+      "title": "Сделай мне Grime",
+      "artist": "",
+      "uploader": "ЗАМАЙ",
+      "durationMs": 151000,
+      "score": 0.967,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-11ee46ad08",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=rUHSrz274dA",
+      "title": "Сделай мне Grime – ЗАМАЙ & Слава КПСС",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 151000,
+      "score": 0.887,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-1623768c54",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-687349769/slava-kpss-zamay-sdelay-mne-grime",
+      "title": "слава кпсс замай - Сделай Мне Grime",
+      "artist": "",
+      "uploader": "gomopes",
+      "durationMs": 150000,
+      "score": 0.88,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-93d2c61a9a",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=9QjCYkkHlNg",
+      "title": "SUPERNATURAL-СДЕЛАЙ МНЕ GRIME",
+      "artist": "",
+      "uploader": "Короли ночной Вероны",
+      "durationMs": 151000,
+      "score": 0.821,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-5fc3621c42",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=_UTJU0kArcY",
+      "title": "ЗАМАЙ, Слава КПСС - Сделай мне Grime | караоке | минус | инструментал",
+      "artist": "",
+      "uploader": "УДОМЛЯ",
+      "durationMs": 157000,
+      "score": 0.793,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-72e443e7b8",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=CRSY0C2eQbc",
+      "title": "Как Слава КПСС и Замай придумали трек СДЕЛАЙ МНЕ GRIME",
+      "artist": "",
+      "uploader": "Радужный Ассенизатор",
+      "durationMs": 142000,
+      "score": 0.763,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-bf146c340b",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=UBRSbL73S-8",
+      "title": "Grime Hate",
+      "artist": "",
+      "uploader": "ЗАМАЙ",
+      "durationMs": 152000,
+      "score": 0.588,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-6a58e8087d",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=kE25G_6wfaY",
+      "title": "Хан ZAMAY & Слава КПСС - Grime Hate (Oxxxymiron diss) (directed by @umnovproduction)",
+      "artist": "",
+      "uploader": "UMNOV PRODUCTION",
+      "durationMs": 152000,
+      "score": 0.407,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "слабое совпадение названия",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-56d782172f",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=fauOWvXmKxk",
+      "title": "Гнойный - Грайм парт на SLOVOSPB",
+      "artist": "",
+      "uploader": "Франц Галлагер",
+      "durationMs": 141000,
+      "score": 0.296,
+      "warnings": [
+        "длительность отличается на 9 с",
+        "слабое совпадение названия",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
