@@ -276,7 +276,35 @@
       },
       "addedAt": "2026-10-27T21:16:30Z",
       "updatedAt": "2026-10-27T21:16:30Z"
+    },
+    "86505374": {
+      "trackId": "86505374",
+      "title": "Сделай мне Grime",
+      "artists": [
+        "ЗАМАЙ",
+        "Слава КПСС"
+      ],
+      "durationMs": 150000,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/86505374-fcae1db6-910b-4531-b93a-bc1adee20044-3c14d9a10c674d469e442408fd1cbd6c.m4a",
+      "assetName": "86505374-fcae1db6-910b-4531-b93a-bc1adee20044-3c14d9a10c674d469e442408fd1cbd6c.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/user-687349769/slava-kpss-zamay-sdelay-mne-grime",
+        "title": "слава кпсс замай - Сделай Мне Grime",
+        "artist": "",
+        "uploader": "gomopes",
+        "durationMs": 150000,
+        "score": 0.88,
+        "warnings": [
+          "автор загрузившего не совпадает",
+          "автоматическая проверка не гарантирует отсутствие цензуры"
+        ]
+      },
+      "addedAt": "2026-10-27T21:23:30Z",
+      "updatedAt": "2026-10-27T21:23:30Z"
     }
   },
-  "updatedAt": "2026-10-27T21:16:30Z"
+  "updatedAt": "2026-10-27T21:23:30Z"
 }
