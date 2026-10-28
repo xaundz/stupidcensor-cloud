@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "7fdaac94-22e2-4f7f-b8b8-2de5acfd6fe2",
+  "action": "manual",
+  "status": "running",
+  "repo": "xaundz/stupidcensor-cloud",
+  "branch": "main",
+  "trackId": "86505301",
+  "trackTitle": "Победоносцев",
+  "trackArtist": "ЗАМАЙ, Слава КПСС",
+  "trackDurationMs": 219000,
+  "createdAt": "2026-10-28T20:17:22Z",
+  "updatedAt": "2026-10-28T20:17:22Z",
+  "expiresAt": "2026-11-04T20:17:22Z",
+  "etaSeconds": 55,
+  "startedAt": "2026-10-28T20:17:22Z",
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40761751204"
+}
