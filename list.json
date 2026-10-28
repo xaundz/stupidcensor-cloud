@@ -356,7 +356,31 @@
       },
       "addedAt": "2026-10-27T21:37:59Z",
       "updatedAt": "2026-10-27T21:37:59Z"
+    },
+    "86505301": {
+      "trackId": "86505301",
+      "title": "Победоносцев",
+      "artists": [
+        "ЗАМАЙ",
+        "Слава КПСС"
+      ],
+      "durationMs": 219498,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/86505301-7fdaac94-22e2-4f7f-b8b8-2de5acfd6fe2-893c449e4682414680506f9ec3066240.m4a",
+      "assetName": "86505301-7fdaac94-22e2-4f7f-b8b8-2de5acfd6fe2-893c449e4682414680506f9ec3066240.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/filthdirtklib3rt/pobedonostsev",
+        "title": "Победоносцев",
+        "artist": "ЗАМАЙ, Слава КПСС",
+        "uploader": "filthdirtklib3rt",
+        "durationMs": 219498,
+        "manual": true
+      },
+      "addedAt": "2026-10-28T20:17:36Z",
+      "updatedAt": "2026-10-28T20:17:36Z"
     }
   },
-  "updatedAt": "2026-10-27T21:37:59Z"
+  "updatedAt": "2026-10-28T20:17:36Z"
 }
