@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "4c0b076a-add7-4f58-b55e-746ecbc386ba",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "86505301",
@@ -10,9 +10,164 @@
   "trackArtist": "ЗАМАЙ, Слава КПСС",
   "trackDurationMs": 219000,
   "createdAt": "2026-10-28T17:34:03Z",
-  "updatedAt": "2026-10-28T17:34:03Z",
-  "expiresAt": "2026-11-04T17:34:03Z",
+  "updatedAt": "2026-10-28T17:34:11Z",
+  "expiresAt": "2026-11-04T17:34:11Z",
   "etaSeconds": 45,
   "startedAt": "2026-10-28T17:34:03Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40736898580"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40736898580",
+  "candidates": [
+    {
+      "id": "cand-a3b2f5f55e",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=BBPAM_CuarM",
+      "title": "Победоносцев",
+      "artist": "",
+      "uploader": "ЗАМАЙ",
+      "durationMs": 220000,
+      "score": 0.968,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-e60ceb5576",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/zamai-music/z1tpwscd7afw",
+      "title": "Победоносцев",
+      "artist": "",
+      "uploader": "ЗАМАЙ",
+      "durationMs": 219000,
+      "score": 0.968,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-f275dcdcf2",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=MsXfSX8Dbdw",
+      "title": "SUPERNATURAL - Победоносцев",
+      "artist": "",
+      "uploader": "gjcjcb",
+      "durationMs": 220000,
+      "score": 0.724,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-792e3c7f6d",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/gnojnyj/slava-kpss-khan-zamay-fuckrap",
+      "title": "СЛАВА КПСС & ХАН ЗАМАЙ - FUCKRAP",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 197000,
+      "score": 0.701,
+      "warnings": [
+        "длительность отличается на 22 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-1d17e2134c",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-665332244/cmrpqyrj23um",
+      "title": "ЗАМАЙ, Слава КПСС - Стадионы",
+      "artist": "",
+      "uploader": "Vqva",
+      "durationMs": 228000,
+      "score": 0.674,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 9 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-59040e6423",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-665332244/9ax1ujj83n4h",
+      "title": "ЗАМАЙ, Слава КПСС - Кот",
+      "artist": "",
+      "uploader": "Vqva",
+      "durationMs": 223000,
+      "score": 0.671,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-2b818877f0",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/oeqsgallceao/v1fw6owexm1q",
+      "title": "ЗАМАЙ, Слава КПСС - Перегруз",
+      "artist": "",
+      "uploader": "BogdanUSSR",
+      "durationMs": 240000,
+      "score": 0.668,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 21 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-236064fccb",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=Ykvotmqvw9g",
+      "title": "Победоносец – ЗАМАЙ & Слава КПСС",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 220000,
+      "score": 0.645,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-3c35b85807",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/ymr6uxh4oskl/zlzf8yvuh6x8",
+      "title": "ЗАМАЙ- Слава КПСС - Ночная Травма",
+      "artist": "",
+      "uploader": "Srj Microchelik",
+      "durationMs": 238000,
+      "score": 0.628,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 19 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-3ecc3a7d0f",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-687349769/slava-kpss-zamay-nenavizhu-lyubov",
+      "title": "слава кпсс замай - Ненавижу Любовь",
+      "artist": "",
+      "uploader": "gomopes",
+      "durationMs": 222000,
+      "score": 0.606,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
