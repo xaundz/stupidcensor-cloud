@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "6d820e30-64c6-4635-9543-d92b71d9ea8f",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "86505291",
@@ -10,9 +10,166 @@
   "trackArtist": "ЗАМАЙ, Слава КПСС",
   "trackDurationMs": 205000,
   "createdAt": "2026-10-29T12:26:54Z",
-  "updatedAt": "2026-10-29T12:26:54Z",
-  "expiresAt": "2026-11-05T12:26:54Z",
+  "updatedAt": "2026-10-29T12:27:02Z",
+  "expiresAt": "2026-11-05T12:27:02Z",
   "etaSeconds": 45,
   "startedAt": "2026-10-29T12:26:54Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40873298922"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/40873298922",
+  "candidates": [
+    {
+      "id": "cand-6610483b0b",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=noCUZSZLNBo",
+      "title": "Antihypeintro",
+      "artist": "",
+      "uploader": "ЗАМАЙ",
+      "durationMs": 205000,
+      "score": 0.968,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-2a0f6cf357",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/zamai-music/antihypeintro",
+      "title": "Antihypeintro",
+      "artist": "",
+      "uploader": "ЗАМАЙ",
+      "durationMs": 204000,
+      "score": 0.968,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-d10050b985",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=RxFokHc_F2s",
+      "title": "Antihypeintro – ЗАМАЙ & Слава КПСС",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 205000,
+      "score": 0.888,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-792e3c7f6d",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/gnojnyj/slava-kpss-khan-zamay-fuckrap",
+      "title": "СЛАВА КПСС & ХАН ЗАМАЙ - FUCKRAP",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 197000,
+      "score": 0.707,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-ff4fc8843e",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=38kXKB6pxkM",
+      "title": "Слава КПСС — IntroFreestyle2024",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 190000,
+      "score": 0.633,
+      "warnings": [
+        "длительность отличается на 15 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-1d17e2134c",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-665332244/cmrpqyrj23um",
+      "title": "ЗАМАЙ, Слава КПСС - Стадионы",
+      "artist": "",
+      "uploader": "Vqva",
+      "durationMs": 228000,
+      "score": 0.627,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 23 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-3d7f062e35",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/filthdirtklib3rt/slava-kpss-zamay-ayvan",
+      "title": "слава кпсс замай - Айван",
+      "artist": "",
+      "uploader": "filthdirtklib3rt",
+      "durationMs": 182000,
+      "score": 0.627,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 23 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-3ecc3a7d0f",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-687349769/slava-kpss-zamay-nenavizhu-lyubov",
+      "title": "слава кпсс замай - Ненавижу Любовь",
+      "artist": "",
+      "uploader": "gomopes",
+      "durationMs": 222000,
+      "score": 0.599,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 17 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-1a81d899d9",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/oeqsgallceao/zoix7zpttcw3",
+      "title": "ЗАМАЙ, Слава КПСС - Позавчера, Вчера, Сегодня",
+      "artist": "",
+      "uploader": "BogdanUSSR",
+      "durationMs": 210000,
+      "score": 0.582,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-c3a4f6b935",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=FfKBRXbH7lU",
+      "title": "Big Baby Tape - Like A G6 (Slowed + Reverb)",
+      "artist": "",
+      "uploader": "ODI SAPPHIRE",
+      "durationMs": 218000,
+      "score": 0.289,
+      "warnings": [
+        "изменён темп или обработка",
+        "автор загрузившего не совпадает",
+        "длительность отличается на 13 с",
+        "слабое совпадение названия",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
