@@ -380,7 +380,34 @@
       },
       "addedAt": "2026-10-28T20:17:36Z",
       "updatedAt": "2026-10-28T20:17:36Z"
+    },
+    "86505296": {
+      "trackId": "86505296",
+      "title": "Пати",
+      "artists": [
+        "ЗАМАЙ",
+        "Слава КПСС"
+      ],
+      "durationMs": 195000,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/86505296-c68455a9-039b-4a7f-995b-6c0f3934cca7-91b3b050f6a445f4accbc9f987924f53.m4a",
+      "assetName": "86505296-c68455a9-039b-4a7f-995b-6c0f3934cca7-91b3b050f6a445f4accbc9f987924f53.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/sniffy-977662784/zamai-slava-kpss-pati",
+        "title": "ЗАМАЙ, СЛАВА КПСС – Пати",
+        "artist": "",
+        "uploader": "мизсвард",
+        "durationMs": 195000,
+        "score": 0.92,
+        "warnings": [
+          "автоматическая проверка не гарантирует отсутствие цензуры"
+        ]
+      },
+      "addedAt": "2026-10-30T15:48:16Z",
+      "updatedAt": "2026-10-30T15:48:16Z"
     }
   },
-  "updatedAt": "2026-10-28T20:17:36Z"
+  "updatedAt": "2026-10-30T15:48:16Z"
 }
