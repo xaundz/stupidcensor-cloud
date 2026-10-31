@@ -466,7 +466,35 @@
       },
       "addedAt": "2026-10-31T21:25:38Z",
       "updatedAt": "2026-10-31T21:25:38Z"
+    },
+    "86505300": {
+      "trackId": "86505300",
+      "title": "Мальчик в Balenciaga",
+      "artists": [
+        "ЗАМАЙ",
+        "Слава КПСС"
+      ],
+      "durationMs": 145000,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/86505300-b622ba16-085a-4743-ac7f-33cd0f9578fa-a73653f7360c4d1784eaa3144e91a4df.m4a",
+      "assetName": "86505300-b622ba16-085a-4743-ac7f-33cd0f9578fa-a73653f7360c4d1784eaa3144e91a4df.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/filthdirtklib3rt/malchik-v-balenciaga",
+        "title": "Мальчик В Balenciaga (кпсс&замай)",
+        "artist": "",
+        "uploader": "filthdirtklib3rt",
+        "durationMs": 145000,
+        "score": 0.827,
+        "warnings": [
+          "автор загрузившего не совпадает",
+          "автоматическая проверка не гарантирует отсутствие цензуры"
+        ]
+      },
+      "addedAt": "2026-10-31T22:08:11Z",
+      "updatedAt": "2026-10-31T22:08:11Z"
     }
   },
-  "updatedAt": "2026-10-31T21:25:38Z"
+  "updatedAt": "2026-10-31T22:08:11Z"
 }
