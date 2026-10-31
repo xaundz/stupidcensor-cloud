@@ -407,7 +407,39 @@
       },
       "addedAt": "2026-10-30T15:48:16Z",
       "updatedAt": "2026-10-30T15:48:16Z"
+    },
+    "73131639": {
+      "trackId": "73131639",
+      "title": "Ни надежды, ни Бога, ни хип-хопа",
+      "artists": [
+        "Слава КПСС",
+        "DEAD BLONDE",
+        "GSPD",
+        "макулатура",
+        "Шляпа Шаляпина",
+        "Антихайп"
+      ],
+      "durationMs": 716000,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/73131639-f2dc5de8-71fb-4f90-b1a1-500dd1453954-bfbbd197c1eb43f696f23ae66f3deb6f.m4a",
+      "assetName": "73131639-f2dc5de8-71fb-4f90-b1a1-500dd1453954-bfbbd197c1eb43f696f23ae66f3deb6f.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/user-935362578/ni-nadezhdy-ni-boga-ni-xip",
+        "title": "Ни надежды, ни бога, ни хип-хопа",
+        "artist": "",
+        "uploader": "машнявый капюшон",
+        "durationMs": 716000,
+        "score": 0.902,
+        "warnings": [
+          "автор загрузившего не совпадает",
+          "автоматическая проверка не гарантирует отсутствие цензуры"
+        ]
+      },
+      "addedAt": "2026-10-31T16:39:11Z",
+      "updatedAt": "2026-10-31T16:39:11Z"
     }
   },
-  "updatedAt": "2026-10-30T15:48:16Z"
+  "updatedAt": "2026-10-31T16:39:11Z"
 }
