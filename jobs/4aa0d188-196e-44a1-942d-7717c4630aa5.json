@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "4aa0d188-196e-44a1-942d-7717c4630aa5",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "73131639",
@@ -10,9 +10,86 @@
   "trackArtist": "Слава КПСС, DEAD BLONDE, GSPD, макулатура, Шляпа Шаляпина, Антихайп",
   "trackDurationMs": 716000,
   "createdAt": "2026-10-31T16:36:05Z",
-  "updatedAt": "2026-10-31T16:36:05Z",
-  "expiresAt": "2026-11-07T16:36:05Z",
+  "updatedAt": "2026-10-31T16:36:11Z",
+  "expiresAt": "2026-11-07T16:36:11Z",
   "etaSeconds": 45,
   "startedAt": "2026-10-31T16:36:05Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/41220450342"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/41220450342",
+  "candidates": [
+    {
+      "id": "cand-fcdb00689e",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=1e5oQUuTer8",
+      "title": "Ни надежды, ни Бога, ни хип-хопа",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 717000,
+      "score": 0.963,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-a455413831",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=U9EHYK4-qsY",
+      "title": "Ни надежды, ни Бога, ни хип-хопа",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 717000,
+      "score": 0.963,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-eb6941f755",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/slavakpss10776/ni-nadezhdy-ni-boga-ni-xip",
+      "title": "Ни надежды, ни Бога, ни хип-хопа (feat. Антихайп, макулатура, Шляпа Шаляпина, GSPD & DEAD BLONDE)",
+      "artist": "",
+      "uploader": "Слава КПСС",
+      "durationMs": 716000,
+      "score": 0.942,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-3ff718a830",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-935362578/ni-nadezhdy-ni-boga-ni-xip",
+      "title": "Ни надежды, ни бога, ни хип-хопа",
+      "artist": "",
+      "uploader": "машнявый капюшон",
+      "durationMs": 716000,
+      "score": 0.902,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-c4a7f2cefa",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=QG4tiV1wNnc",
+      "title": "Слава КПСС - Ни надежды, ни Бога, ни хип-хопа (ПРЕМЬЕРА АЛЬБОМА)",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 716000,
+      "score": 0.824,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
