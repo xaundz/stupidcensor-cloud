@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "f2dc5de8-71fb-4f90-b1a1-500dd1453954",
+  "action": "confirm",
+  "status": "running",
+  "repo": "xaundz/stupidcensor-cloud",
+  "branch": "main",
+  "trackId": "73131639",
+  "trackTitle": "Ни надежды, ни Бога, ни хип-хопа",
+  "trackArtist": "Слава КПСС, DEAD BLONDE, GSPD, макулатура, Шляпа Шаляпина, Антихайп",
+  "trackDurationMs": 716000,
+  "createdAt": "2026-10-31T16:38:49Z",
+  "updatedAt": "2026-10-31T16:38:49Z",
+  "expiresAt": "2026-11-07T16:38:49Z",
+  "etaSeconds": 75,
+  "startedAt": "2026-10-31T16:38:49Z",
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/41220644589"
+}
