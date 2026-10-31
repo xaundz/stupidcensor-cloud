@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "a1cc02c3-366e-4e96-9f7a-e5a71a1087c1",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "86505300",
@@ -10,9 +10,119 @@
   "trackArtist": "ЗАМАЙ, Слава КПСС",
   "trackDurationMs": 145000,
   "createdAt": "2026-10-31T22:05:16Z",
-  "updatedAt": "2026-10-31T22:05:16Z",
-  "expiresAt": "2026-11-07T22:05:16Z",
+  "updatedAt": "2026-10-31T22:05:21Z",
+  "expiresAt": "2026-11-07T22:05:21Z",
   "etaSeconds": 45,
   "startedAt": "2026-10-31T22:05:16Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/41246544624"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/41246544624",
+  "candidates": [
+    {
+      "id": "cand-63f5958e92",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=39VWuSaVQNA",
+      "title": "Мальчик в Balenciaga",
+      "artist": "",
+      "uploader": "ЗАМАЙ",
+      "durationMs": 145000,
+      "score": 0.968,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-c675bbabf6",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/zamai-music/balenciaga",
+      "title": "Мальчик в Balenciaga",
+      "artist": "",
+      "uploader": "ЗАМАЙ",
+      "durationMs": 144000,
+      "score": 0.967,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-e3da1ed933",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=gxy3yBJPT1A",
+      "title": "Мальчик в Balenciaga – ЗАМАЙ & Слава КПСС",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 145000,
+      "score": 0.888,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-1aae9a4620",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/filthdirtklib3rt/malchik-v-balenciaga",
+      "title": "Мальчик В Balenciaga (кпсс&замай)",
+      "artist": "",
+      "uploader": "filthdirtklib3rt",
+      "durationMs": 144000,
+      "score": 0.827,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-a0e3c4cc12",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=5W0u1PfJ2PM",
+      "title": "SUPERNATURAL - МАЛЬЧИК В BALENCIAGA",
+      "artist": "",
+      "uploader": "gjcjcb",
+      "durationMs": 142000,
+      "score": 0.8,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-cb08dc2202",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=wmqAxZq3YAs",
+      "title": "Мальчик не танцует потому что в Balenciaga",
+      "artist": "",
+      "uploader": "Thght",
+      "durationMs": 131000,
+      "score": 0.692,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 14 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-ae9374fb23",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=_F68yY-16mI",
+      "title": "Пачка",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 129000,
+      "score": 0.594,
+      "warnings": [
+        "длительность отличается на 16 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
