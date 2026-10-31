@@ -439,7 +439,34 @@
       },
       "addedAt": "2026-10-31T16:39:11Z",
       "updatedAt": "2026-10-31T16:39:11Z"
+    },
+    "133429874": {
+      "trackId": "133429874",
+      "title": "Россия24",
+      "artists": [
+        "Слава КПСС"
+      ],
+      "durationMs": 163000,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/133429874-3402629b-2cbe-4eae-b07b-319cd7475346-4f5828d8867646bfbf5b837251ca2eb8.m4a",
+      "assetName": "133429874-3402629b-2cbe-4eae-b07b-319cd7475346-4f5828d8867646bfbf5b837251ca2eb8.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/rusyarapscene/slava-kpss-rossiya24",
+        "title": "Слава КПСС - Россия24",
+        "artist": "",
+        "uploader": "Русская Рэп-Сцена",
+        "durationMs": 163000,
+        "score": 0.895,
+        "warnings": [
+          "автор загрузившего не совпадает",
+          "автоматическая проверка не гарантирует отсутствие цензуры"
+        ]
+      },
+      "addedAt": "2026-10-31T21:25:38Z",
+      "updatedAt": "2026-10-31T21:25:38Z"
     }
   },
-  "updatedAt": "2026-10-31T16:39:11Z"
+  "updatedAt": "2026-10-31T21:25:38Z"
 }
