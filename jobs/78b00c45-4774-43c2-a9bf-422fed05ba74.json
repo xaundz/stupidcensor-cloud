@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "78b00c45-4774-43c2-a9bf-422fed05ba74",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "93453293",
@@ -10,9 +10,70 @@
   "trackArtist": "Воровская лапа, Уличный МО",
   "trackDurationMs": 110000,
   "createdAt": "2026-11-01T10:41:55Z",
-  "updatedAt": "2026-11-01T10:41:55Z",
-  "expiresAt": "2026-11-08T10:41:55Z",
+  "updatedAt": "2026-11-01T10:41:59Z",
+  "expiresAt": "2026-11-08T10:41:59Z",
   "etaSeconds": 45,
   "startedAt": "2026-11-01T10:41:55Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/41298600261"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/41298600261",
+  "candidates": [
+    {
+      "id": "cand-6d6946b1e3",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=MFUjLzi2PhQ",
+      "title": "На чиле",
+      "artist": "",
+      "uploader": "Воровская лапа - Topic",
+      "durationMs": 111000,
+      "score": 0.959,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-e44465b3c0",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=kIbJAJqPd1I",
+      "title": "На чиле",
+      "artist": "",
+      "uploader": "Воровская лапа - Topic",
+      "durationMs": 111000,
+      "score": 0.959,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-f66231c5c5",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/bigbangersupernova/vorovskaia-lapa-feat-ulichnyi-mo-na-chile-5",
+      "title": "Воровская лапа feat Уличный Мо - На чиле",
+      "artist": "",
+      "uploader": "BigBangerSupernova",
+      "durationMs": 110000,
+      "score": 0.835,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-c9eae6bfe8",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=UWSB-x23eiA",
+      "title": "На чиле – Воровская лапа",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 111000,
+      "score": 0.811,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
