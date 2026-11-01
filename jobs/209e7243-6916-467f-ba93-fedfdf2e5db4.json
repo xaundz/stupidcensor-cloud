@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "209e7243-6916-467f-ba93-fedfdf2e5db4",
   "action": "confirm",
-  "status": "running",
+  "status": "published",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "93453301",
@@ -10,9 +10,15 @@
   "trackArtist": "Воровская лапа, Big Baby Prilepin",
   "trackDurationMs": 216000,
   "createdAt": "2026-11-01T16:25:42Z",
-  "updatedAt": "2026-11-01T16:25:42Z",
-  "expiresAt": "2026-11-08T16:25:42Z",
+  "updatedAt": "2026-11-01T16:25:53Z",
+  "expiresAt": "2026-11-08T16:25:53Z",
   "etaSeconds": 75,
   "startedAt": "2026-11-01T16:25:42Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/41326232206"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/41326232206",
+  "published": {
+    "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/93453301-209e7243-6916-467f-ba93-fedfdf2e5db4-fa49a169ef3d406c86a91d931e70d399.m4a",
+    "assetName": "93453301-209e7243-6916-467f-ba93-fedfdf2e5db4-fa49a169ef3d406c86a91d931e70d399.m4a"
+  },
+  "candidateId": "cand-d1a16608b9",
+  "sourceJobId": "c00bc6fb-38d3-4578-9698-452ed1d1b8ed"
 }
