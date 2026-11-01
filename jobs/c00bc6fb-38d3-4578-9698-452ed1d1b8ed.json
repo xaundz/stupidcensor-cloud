@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "c00bc6fb-38d3-4578-9698-452ed1d1b8ed",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "93453301",
@@ -10,9 +10,86 @@
   "trackArtist": "Воровская лапа, Big Baby Prilepin",
   "trackDurationMs": 216000,
   "createdAt": "2026-11-01T16:22:31Z",
-  "updatedAt": "2026-11-01T16:22:31Z",
-  "expiresAt": "2026-11-08T16:22:31Z",
+  "updatedAt": "2026-11-01T16:22:36Z",
+  "expiresAt": "2026-11-08T16:22:36Z",
   "etaSeconds": 45,
   "startedAt": "2026-11-01T16:22:31Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/41325988105"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/41325988105",
+  "candidates": [
+    {
+      "id": "cand-403274a7b6",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=_9a2UwYATYs",
+      "title": "Лагерная Пыль",
+      "artist": "",
+      "uploader": "Воровская лапа - Topic",
+      "durationMs": 216000,
+      "score": 0.958,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-580a679901",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=IErV2dOTIjU",
+      "title": "Лагерная Пыль",
+      "artist": "",
+      "uploader": "Воровская лапа - Topic",
+      "durationMs": 216000,
+      "score": 0.958,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-d1a16608b9",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/bigbangersupernova/vorovskaia-lapa-feat-big-baby-prilepin-lagernaia-pyl-6",
+      "title": "Воровская лапа feat Big Baby Prilepin - Лагерная пыль",
+      "artist": "",
+      "uploader": "BigBangerSupernova",
+      "durationMs": 216000,
+      "score": 0.879,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-46bb2f85a2",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=9MZy0xGjIOU",
+      "title": "Лагерная пыль – Воровская лапа",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 217000,
+      "score": 0.766,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-efe492ddad",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=jNJQtG1z8W8",
+      "title": "Воровская Лапа - Лагерная пыль (15.10.2023)",
+      "artist": "",
+      "uploader": "Tatsuya_S",
+      "durationMs": 238000,
+      "score": 0.659,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 22 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
