@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "cb27f549-052a-4df3-a7d0-e87ed763a799",
+  "action": "confirm",
+  "status": "running",
+  "repo": "xaundz/stupidcensor-cloud",
+  "branch": "main",
+  "trackId": "93453293",
+  "trackTitle": "На чиле",
+  "trackArtist": "Воровская лапа, Уличный МО",
+  "trackDurationMs": 111000,
+  "createdAt": "2026-11-01T10:43:34Z",
+  "updatedAt": "2026-11-01T10:43:34Z",
+  "expiresAt": "2026-11-08T10:43:34Z",
+  "etaSeconds": 75,
+  "startedAt": "2026-11-01T10:43:34Z",
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/41298703045"
+}
