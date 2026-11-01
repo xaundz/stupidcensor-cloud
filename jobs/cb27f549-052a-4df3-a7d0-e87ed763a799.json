@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "cb27f549-052a-4df3-a7d0-e87ed763a799",
   "action": "confirm",
-  "status": "running",
+  "status": "failed",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "93453293",
@@ -10,9 +10,14 @@
   "trackArtist": "Воровская лапа, Уличный МО",
   "trackDurationMs": 111000,
   "createdAt": "2026-11-01T10:43:34Z",
-  "updatedAt": "2026-11-01T10:43:34Z",
-  "expiresAt": "2026-11-08T10:43:34Z",
+  "updatedAt": "2026-11-01T10:43:38Z",
+  "expiresAt": "2026-11-08T10:43:38Z",
   "etaSeconds": 75,
   "startedAt": "2026-11-01T10:43:34Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/41298703045"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/41298703045",
+  "error": {
+    "code": "youtube_auth",
+    "message": "YouTube требует вход с IP GitHub Actions. Добавьте cookies в секрет YTDLP_COOKIES или выберите SoundCloud.",
+    "detail": "ERROR: [youtube] MFUjLzi2PhQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  }
 }
