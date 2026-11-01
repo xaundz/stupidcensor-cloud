@@ -522,7 +522,34 @@
       },
       "addedAt": "2026-11-01T10:50:25Z",
       "updatedAt": "2026-11-01T10:50:25Z"
+    },
+    "93453301": {
+      "trackId": "93453301",
+      "title": "Лагерная Пыль",
+      "artists": [
+        "Воровская лапа",
+        "Big Baby Prilepin"
+      ],
+      "durationMs": 216000,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/93453301-209e7243-6916-467f-ba93-fedfdf2e5db4-fa49a169ef3d406c86a91d931e70d399.m4a",
+      "assetName": "93453301-209e7243-6916-467f-ba93-fedfdf2e5db4-fa49a169ef3d406c86a91d931e70d399.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/bigbangersupernova/vorovskaia-lapa-feat-big-baby-prilepin-lagernaia-pyl-6",
+        "title": "Воровская лапа feat Big Baby Prilepin - Лагерная пыль",
+        "artist": "",
+        "uploader": "BigBangerSupernova",
+        "durationMs": 216000,
+        "score": 0.879,
+        "warnings": [
+          "автоматическая проверка не гарантирует отсутствие цензуры"
+        ]
+      },
+      "addedAt": "2026-11-01T16:25:52Z",
+      "updatedAt": "2026-11-01T16:25:52Z"
     }
   },
-  "updatedAt": "2026-11-01T10:50:25Z"
+  "updatedAt": "2026-11-01T16:25:52Z"
 }
