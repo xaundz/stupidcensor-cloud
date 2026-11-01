@@ -494,7 +494,35 @@
       },
       "addedAt": "2026-10-31T22:08:11Z",
       "updatedAt": "2026-10-31T22:08:11Z"
+    },
+    "93453293": {
+      "trackId": "93453293",
+      "title": "На чиле",
+      "artists": [
+        "Воровская лапа",
+        "Уличный МО"
+      ],
+      "durationMs": 110000,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/93453293-041ed851-5080-4e44-bac3-8045db5430e2-746a1fb315744fcda951702e39c17f6f.m4a",
+      "assetName": "93453293-041ed851-5080-4e44-bac3-8045db5430e2-746a1fb315744fcda951702e39c17f6f.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/bigbangersupernova/vorovskaia-lapa-feat-ulichnyi-mo-na-chile-5",
+        "title": "Воровская лапа feat Уличный Мо - На чиле",
+        "artist": "",
+        "uploader": "BigBangerSupernova",
+        "durationMs": 110000,
+        "score": 0.835,
+        "warnings": [
+          "автор загрузившего не совпадает",
+          "автоматическая проверка не гарантирует отсутствие цензуры"
+        ]
+      },
+      "addedAt": "2026-11-01T10:50:25Z",
+      "updatedAt": "2026-11-01T10:50:25Z"
     }
   },
-  "updatedAt": "2026-10-31T22:08:11Z"
+  "updatedAt": "2026-11-01T10:50:25Z"
 }
