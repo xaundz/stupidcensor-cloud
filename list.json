@@ -549,7 +549,33 @@
       },
       "addedAt": "2026-11-01T16:25:52Z",
       "updatedAt": "2026-11-01T16:25:52Z"
+    },
+    "118111190": {
+      "trackId": "118111190",
+      "title": "Крутые парни",
+      "artists": [
+        "BOOKER"
+      ],
+      "durationMs": 190000,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/118111190-6ff3c553-bb66-48c3-a0c5-1984db3d5981-056fa026173747a387a5d6c17ce2969b.m4a",
+      "assetName": "118111190-6ff3c553-bb66-48c3-a0c5-1984db3d5981-056fa026173747a387a5d6c17ce2969b.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/conteral381/krutye-parni-booker-1",
+        "title": "Крутые парни - Booker",
+        "artist": "",
+        "uploader": "Conteral381",
+        "durationMs": 190000,
+        "score": 0.921,
+        "warnings": [
+          "автоматическая проверка не гарантирует отсутствие цензуры"
+        ]
+      },
+      "addedAt": "2026-11-04T10:43:00Z",
+      "updatedAt": "2026-11-04T10:43:00Z"
     }
   },
-  "updatedAt": "2026-11-01T16:25:52Z"
+  "updatedAt": "2026-11-04T10:43:00Z"
 }
