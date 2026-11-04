@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "6ff3c553-bb66-48c3-a0c5-1984db3d5981",
   "action": "confirm",
-  "status": "running",
+  "status": "published",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "118111190",
@@ -10,9 +10,15 @@
   "trackArtist": "BOOKER",
   "trackDurationMs": 190000,
   "createdAt": "2026-11-04T10:42:42Z",
-  "updatedAt": "2026-11-04T10:42:42Z",
-  "expiresAt": "2026-11-11T10:42:42Z",
+  "updatedAt": "2026-11-04T10:43:01Z",
+  "expiresAt": "2026-11-11T10:43:01Z",
   "etaSeconds": 75,
   "startedAt": "2026-11-04T10:42:42Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/41815894936"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/41815894936",
+  "published": {
+    "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/118111190-6ff3c553-bb66-48c3-a0c5-1984db3d5981-056fa026173747a387a5d6c17ce2969b.m4a",
+    "assetName": "118111190-6ff3c553-bb66-48c3-a0c5-1984db3d5981-056fa026173747a387a5d6c17ce2969b.m4a"
+  },
+  "candidateId": "cand-7ac610f92c",
+  "sourceJobId": "10ec1bb5-7615-46c4-b610-fb94ff232e1d"
 }
