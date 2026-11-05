@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "07b7c44c-6364-4046-bbaf-ff3168b4f2ab",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "86505307",
@@ -10,9 +10,192 @@
   "trackArtist": "ЗАМАЙ, Слава КПСС",
   "trackDurationMs": 232000,
   "createdAt": "2026-11-05T18:16:53Z",
-  "updatedAt": "2026-11-05T18:16:53Z",
-  "expiresAt": "2026-11-12T18:16:53Z",
+  "updatedAt": "2026-11-05T18:16:59Z",
+  "expiresAt": "2026-11-12T18:16:59Z",
   "etaSeconds": 45,
   "startedAt": "2026-11-05T18:16:53Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/42082666972"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/42082666972",
+  "candidates": [
+    {
+      "id": "cand-770dd4c6be",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=fSU8LcpMfRo",
+      "title": "Сель",
+      "artist": "",
+      "uploader": "ЗАМАЙ",
+      "durationMs": 232000,
+      "score": 0.968,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-1a722fb189",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/zamai-music/yix36noprvfo",
+      "title": "Сель",
+      "artist": "",
+      "uploader": "ЗАМАЙ",
+      "durationMs": 232000,
+      "score": 0.968,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-b3ca3ae0ff",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=x9n1GsYFPXE",
+      "title": "ЗАМАЙ, Слава КПСС-Сель",
+      "artist": "",
+      "uploader": "Царь ВЦСПС",
+      "durationMs": 232000,
+      "score": 0.926,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-ee96bd24b6",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=Li2VhP7vPKM",
+      "title": "Сель – ЗАМАЙ & Слава КПСС",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 233000,
+      "score": 0.887,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-f5665740ff",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=wollzSSJov0",
+      "title": "ЗАМАЙ, СЛАВА КПСС — СЕЛЬ / АНТИХАЙП-ФЕСТИВАЛЬ",
+      "artist": "",
+      "uploader": "THEPCTR",
+      "durationMs": 229000,
+      "score": 0.775,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-af8bebadb0",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=J-X42SOjX6o",
+      "title": "ЗАМАЙ, Слава КПСС - Сель | караоке | минус | инструментал",
+      "artist": "",
+      "uploader": "УДОМЛЯ",
+      "durationMs": 241000,
+      "score": 0.764,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "длительность отличается на 9 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-59040e6423",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-665332244/9ax1ujj83n4h",
+      "title": "ЗАМАЙ, Слава КПСС - Кот",
+      "artist": "",
+      "uploader": "Vqva",
+      "durationMs": 223000,
+      "score": 0.743,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 9 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-9376245e36",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=6nz84c_nC3s",
+      "title": "SUPERNATURAL - СЕЛЬ",
+      "artist": "",
+      "uploader": "gjcjcb",
+      "durationMs": 233000,
+      "score": 0.724,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-1d17e2134c",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-665332244/cmrpqyrj23um",
+      "title": "ЗАМАЙ, Слава КПСС - Стадионы",
+      "artist": "",
+      "uploader": "Vqva",
+      "durationMs": 228000,
+      "score": 0.709,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-2b818877f0",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/oeqsgallceao/v1fw6owexm1q",
+      "title": "ЗАМАЙ, Слава КПСС - Перегруз",
+      "artist": "",
+      "uploader": "BogdanUSSR",
+      "durationMs": 240000,
+      "score": 0.707,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-27e4eba2e4",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-687349769/slava-kpss-dengi",
+      "title": "слава кпсс замай - Деньги",
+      "artist": "",
+      "uploader": "gomopes",
+      "durationMs": 246000,
+      "score": 0.632,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 14 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-3c35b85807",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/ymr6uxh4oskl/zlzf8yvuh6x8",
+      "title": "ЗАМАЙ- Слава КПСС - Ночная Травма",
+      "artist": "",
+      "uploader": "Srj Microchelik",
+      "durationMs": 238000,
+      "score": 0.625,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
