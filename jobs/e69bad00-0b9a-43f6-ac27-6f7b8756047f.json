@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "e69bad00-0b9a-43f6-ac27-6f7b8756047f",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "86505318",
@@ -10,9 +10,179 @@
   "trackArtist": "ЗАМАЙ, Слава КПСС",
   "trackDurationMs": 168000,
   "createdAt": "2026-11-07T14:32:49Z",
-  "updatedAt": "2026-11-07T14:32:49Z",
-  "expiresAt": "2026-11-14T14:32:49Z",
+  "updatedAt": "2026-11-07T14:32:57Z",
+  "expiresAt": "2026-11-14T14:32:57Z",
   "etaSeconds": 45,
   "startedAt": "2026-11-07T14:32:49Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/42382083079"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/42382083079",
+  "candidates": [
+    {
+      "id": "cand-06fc54567e",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/zamai-music/jeep",
+      "title": "Jeep",
+      "artist": "",
+      "uploader": "ЗАМАЙ",
+      "durationMs": 168000,
+      "score": 0.968,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-7dfbc3a4f3",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=02xULKxBLI0",
+      "title": "Jeep",
+      "artist": "",
+      "uploader": "ЗАМАЙ",
+      "durationMs": 169000,
+      "score": 0.967,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-c37a667dea",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/sniffy-977662784/zamai-slava-kpss-jeep",
+      "title": "ЗАМАЙ, СЛАВА КПСС – Jeep",
+      "artist": "",
+      "uploader": "мизсвард",
+      "durationMs": 168000,
+      "score": 0.92,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-7ea9037c02",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=z9CjuE69jd0",
+      "title": "Jeep – ЗАМАЙ & Слава КПСС",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 169000,
+      "score": 0.887,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-e8635be4e1",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=Skt1XuosHGc",
+      "title": "(МИНУС) ЗАМАЙ, СЛАВА КПСС — JEEP",
+      "artist": "",
+      "uploader": "FIJIYAMA",
+      "durationMs": 170000,
+      "score": 0.816,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-6d531eb356",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=nV2W05Y1_vA",
+      "title": "SUPERNATURAL - JEEP",
+      "artist": "",
+      "uploader": "gjcjcb",
+      "durationMs": 169000,
+      "score": 0.723,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-6d668b90b7",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/oeqsgallceao/lmzvjgpyihce",
+      "title": "ЗАМАЙ, Слава КПСС - Скорпион",
+      "artist": "",
+      "uploader": "BogdanUSSR",
+      "durationMs": 167000,
+      "score": 0.676,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-a34c3f8881",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=PASu-fwISMk",
+      "title": "Слава КПСС & Замай - Jeep (Live) 25.06.2022. Санкт-Петербург. клуб Акакао",
+      "artist": "",
+      "uploader": "FRankLowLife",
+      "durationMs": 157000,
+      "score": 0.665,
+      "warnings": [
+        "концертная запись",
+        "автор загрузившего не совпадает",
+        "длительность отличается на 11 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-7e72ad6ad6",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-665332244/llxaq537nxvn",
+      "title": "ЗАМАЙ, Слава КПСС - Неошансон",
+      "artist": "",
+      "uploader": "Vqva",
+      "durationMs": 185000,
+      "score": 0.654,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 17 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-ebbb2392c9",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=blKPlVh8iu8",
+      "title": "ЗАМАЙ, Слава КПСС - FUCKRAP | караоке | минус | инструментал",
+      "artist": "",
+      "uploader": "УДОМЛЯ",
+      "durationMs": 175000,
+      "score": 0.586,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-5e0e3685a3",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=r4yu0TLGia4",
+      "title": "СЛАВА КПСС - ПАЦАНСКИЙ ФЛЕКС",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 178000,
+      "score": 0.575,
+      "warnings": [
+        "длительность отличается на 10 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
