@@ -575,7 +575,34 @@
       },
       "addedAt": "2026-11-04T10:43:00Z",
       "updatedAt": "2026-11-04T10:43:00Z"
+    },
+    "86505318": {
+      "trackId": "86505318",
+      "title": "Jeep",
+      "artists": [
+        "ЗАМАЙ",
+        "Слава КПСС"
+      ],
+      "durationMs": 168000,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/86505318-4c3ce5ac-8a18-4eb7-a176-a08f3c5ccd86-6c52cdbc758945f8a9a3c5c71aca2387.m4a",
+      "assetName": "86505318-4c3ce5ac-8a18-4eb7-a176-a08f3c5ccd86-6c52cdbc758945f8a9a3c5c71aca2387.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/sniffy-977662784/zamai-slava-kpss-jeep",
+        "title": "ЗАМАЙ, СЛАВА КПСС – Jeep",
+        "artist": "",
+        "uploader": "мизсвард",
+        "durationMs": 168000,
+        "score": 0.92,
+        "warnings": [
+          "автоматическая проверка не гарантирует отсутствие цензуры"
+        ]
+      },
+      "addedAt": "2026-11-07T14:35:37Z",
+      "updatedAt": "2026-11-07T14:35:37Z"
     }
   },
-  "updatedAt": "2026-11-04T10:43:00Z"
+  "updatedAt": "2026-11-07T14:35:37Z"
 }
