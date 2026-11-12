@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "530610cf-fe09-4acf-9764-a4ce98418626",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "86505313",
@@ -10,9 +10,169 @@
   "trackArtist": "ЗАМАЙ, Слава КПСС",
   "trackDurationMs": 152000,
   "createdAt": "2026-11-12T19:56:12Z",
-  "updatedAt": "2026-11-12T19:56:12Z",
-  "expiresAt": "2026-11-19T19:56:12Z",
+  "updatedAt": "2026-11-12T19:56:19Z",
+  "expiresAt": "2026-11-19T19:56:19Z",
   "etaSeconds": 45,
   "startedAt": "2026-11-12T19:56:12Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/43295127358"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/43295127358",
+  "candidates": [
+    {
+      "id": "cand-5752a0615b",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=GnjdyJiST6s",
+      "title": "На****ло",
+      "artist": "",
+      "uploader": "ЗАМАЙ",
+      "durationMs": 152000,
+      "score": 0.968,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-a8e4be05fd",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/zamai-music/vvmuoscxj8ws",
+      "title": "На****ло",
+      "artist": "",
+      "uploader": "ЗАМАЙ",
+      "durationMs": 151000,
+      "score": 0.967,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-0a5f38c10e",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=xkE3njvXfwE",
+      "title": "На****ло – ЗАМАЙ & Слава КПСС",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 152000,
+      "score": 0.888,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-b89a1f6bbe",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/zamay-and-slava-kpss/smert-na-rejve",
+      "title": "Смерть на рейве",
+      "artist": "",
+      "uploader": "Замай & Слава КПСС",
+      "durationMs": 164000,
+      "score": 0.765,
+      "warnings": [
+        "длительность отличается на 12 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-5ad3ba4166",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=diWzT3flYlw",
+      "title": "Замай, Слава КПСС – 016. Нахапало",
+      "artist": "",
+      "uploader": "Lpnl",
+      "durationMs": 152000,
+      "score": 0.742,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-f4bb967ee1",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=hiTZaHb7BFM",
+      "title": "ЗАМАЙ & СЛАВА КПСС - Нахапало (КАРАОКЕ)",
+      "artist": "",
+      "uploader": "III III",
+      "durationMs": 152000,
+      "score": 0.706,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-97b9801139",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=mgr-al_40K4",
+      "title": "ХАН ЗАМАЙ & СЛАВА КПСС - НАХАПАЛО (Фан клип 2024)",
+      "artist": "",
+      "uploader": "erokezpanka",
+      "durationMs": 171000,
+      "score": 0.592,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 19 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-bcbf34e5c2",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=gVPT0vsxjZY",
+      "title": "ХАН ЗАМАЙ,СЛАВА КПСС - Antihypeoutro (ANTIHYPETRAIN) КАРАОКЕ",
+      "artist": "",
+      "uploader": "100летБабанКапалКанал",
+      "durationMs": 162000,
+      "score": 0.511,
+      "warnings": [
+        "инструментальная версия",
+        "длительность отличается на 10 с",
+        "слабое совпадение названия",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-0aaaea9c40",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=qdh6XStHKD0",
+      "title": "СЛАВА КПСС - FACE DISS (НОВЫЙ ТРЕК СЛАВЫ КПСС) ТЕКСТ ПЕСНИ//+КАРАОКЕ+//LYRICS (в опис.)",
+      "artist": "",
+      "uploader": "mxstake",
+      "durationMs": 157000,
+      "score": 0.335,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "слабое совпадение названия",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-d531c64672",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=P56DEBFrVLc",
+      "title": "SUPERNATURAL - Нахапало",
+      "artist": "",
+      "uploader": "gjcjcb",
+      "durationMs": 142000,
+      "score": 0.333,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 10 с",
+        "слабое совпадение названия",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
