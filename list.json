@@ -602,7 +602,33 @@
       },
       "addedAt": "2026-11-07T14:35:37Z",
       "updatedAt": "2026-11-07T14:35:37Z"
+    },
+    "117219710": {
+      "trackId": "117219710",
+      "title": "Пих-пох",
+      "artists": [
+        "Слава КПСС"
+      ],
+      "durationMs": 100000,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/117219710-6ba18bb7-a404-43cc-af85-18b21fd6b313-8e1d7331221b41c19027e098d21a758e.m4a",
+      "assetName": "117219710-6ba18bb7-a404-43cc-af85-18b21fd6b313-8e1d7331221b41c19027e098d21a758e.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/kprfslava/pikh-pokh-1",
+        "title": "Пих-пох",
+        "artist": "",
+        "uploader": "Слава КПСС",
+        "durationMs": 100000,
+        "score": 0.994,
+        "warnings": [
+          "автоматическая проверка не гарантирует отсутствие цензуры"
+        ]
+      },
+      "addedAt": "2026-11-13T17:44:24Z",
+      "updatedAt": "2026-11-13T17:44:24Z"
     }
   },
-  "updatedAt": "2026-11-07T14:35:37Z"
+  "updatedAt": "2026-11-13T17:44:24Z"
 }
