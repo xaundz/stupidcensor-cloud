@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "cbd33522-0222-401f-a34b-2d80079d1d10",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "117219710",
@@ -10,9 +10,189 @@
   "trackArtist": "Слава КПСС",
   "trackDurationMs": 106000,
   "createdAt": "2026-11-13T17:39:41Z",
-  "updatedAt": "2026-11-13T17:39:41Z",
-  "expiresAt": "2026-11-20T17:39:41Z",
+  "updatedAt": "2026-11-13T17:39:50Z",
+  "expiresAt": "2026-11-20T17:39:50Z",
   "etaSeconds": 45,
   "startedAt": "2026-11-13T17:39:41Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/43474917274"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/43474917274",
+  "candidates": [
+    {
+      "id": "cand-b9e21ae544",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=QFNa0HrfGwQ",
+      "title": "Пих-пох",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 106000,
+      "score": 1.0,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-a380cb2ee7",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/slavakpss-music/pix-pox",
+      "title": "Пих-пох",
+      "artist": "",
+      "uploader": "Слава КПСС",
+      "durationMs": 105000,
+      "score": 0.999,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-b033e34cc7",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/john-marston-396740159/pix-pox",
+      "title": "Пих-пох",
+      "artist": "",
+      "uploader": "Слава КПСС",
+      "durationMs": 105000,
+      "score": 0.999,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-e0601774ae",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=kjIyM8aoEGI",
+      "title": "Пих-пох",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 101000,
+      "score": 0.995,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-3bb35f8320",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/kprfslava/pikh-pokh-1",
+      "title": "Пих-пох",
+      "artist": "",
+      "uploader": "Слава КПСС",
+      "durationMs": 100000,
+      "score": 0.994,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-3ae78158b2",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/slavakpss-music/pix-pox-1",
+      "title": "Пих-пох",
+      "artist": "",
+      "uploader": "Слава КПСС",
+      "durationMs": 100000,
+      "score": 0.994,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-db1ea13884",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=7dcsxr4QeMU",
+      "title": "Слава КПСС – Пих-пох",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 106000,
+      "score": 0.899,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-42ae630385",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/sv4lker-o/slava-kpss-pikh-pokh",
+      "title": "Слава КПСС - Пих - Пох",
+      "artist": "",
+      "uploader": "Sv4lker \\o/",
+      "durationMs": 100000,
+      "score": 0.887,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-2aad75c0de",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=Q17uKoJhiNE",
+      "title": "Слава КПСС - Пих-пох",
+      "artist": "",
+      "uploader": "music...",
+      "durationMs": 101000,
+      "score": 0.875,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-d72c053d29",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/wpbody/pix-pox-master-2-mp3",
+      "title": "Слава КПСС — Пих-Пох (spacekeeplove remix)",
+      "artist": "",
+      "uploader": "spacekeeplove",
+      "durationMs": 113000,
+      "score": 0.769,
+      "warnings": [
+        "ремикс",
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-73342294ec",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=3q13xlFfCik",
+      "title": "Слава КПСС - Пих-пох | караоке | минус | инструментал",
+      "artist": "",
+      "uploader": "УДОМЛЯ",
+      "durationMs": 107000,
+      "score": 0.76,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-7ebb50fbcf",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-894495660/pix-pox",
+      "title": "Слава КПСС - Пих-пох (Любимые песни настоящих людей)",
+      "artist": "",
+      "uploader": "пук хрюк",
+      "durationMs": 105000,
+      "score": 0.75,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
