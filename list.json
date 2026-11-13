@@ -602,7 +602,34 @@
       },
       "addedAt": "2026-11-07T14:35:37Z",
       "updatedAt": "2026-11-07T14:35:37Z"
+    },
+    "117219710": {
+      "trackId": "117219710",
+      "title": "Пих-пох",
+      "artists": [
+        "Слава КПСС"
+      ],
+      "durationMs": 106000,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/117219710-b8f1a325-01b4-4cdb-a766-b2f4b319ad74-06b92be88ba046b28c4741d0c18c5b1b.m4a",
+      "assetName": "117219710-b8f1a325-01b4-4cdb-a766-b2f4b319ad74-06b92be88ba046b28c4741d0c18c5b1b.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/user-894495660/pix-pox",
+        "title": "Слава КПСС - Пих-пох (Любимые песни настоящих людей)",
+        "artist": "",
+        "uploader": "пук хрюк",
+        "durationMs": 106000,
+        "score": 0.75,
+        "warnings": [
+          "автор загрузившего не совпадает",
+          "автоматическая проверка не гарантирует отсутствие цензуры"
+        ]
+      },
+      "addedAt": "2026-11-13T17:56:19Z",
+      "updatedAt": "2026-11-13T17:56:19Z"
     }
   },
-  "updatedAt": "2026-11-13T17:54:58Z"
+  "updatedAt": "2026-11-13T17:56:19Z"
 }
