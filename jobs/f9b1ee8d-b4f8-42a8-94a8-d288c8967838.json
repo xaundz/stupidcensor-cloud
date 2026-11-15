@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "f9b1ee8d-b4f8-42a8-94a8-d288c8967838",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "107970518",
@@ -10,9 +10,190 @@
   "trackArtist": "Слава КПСС",
   "trackDurationMs": 116000,
   "createdAt": "2026-11-15T11:21:00Z",
-  "updatedAt": "2026-11-15T11:21:00Z",
-  "expiresAt": "2026-11-22T11:21:00Z",
+  "updatedAt": "2026-11-15T11:21:08Z",
+  "expiresAt": "2026-11-22T11:21:08Z",
   "etaSeconds": 45,
   "startedAt": "2026-11-15T11:21:00Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/43708467358"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/43708467358",
+  "candidates": [
+    {
+      "id": "cand-cc4ac4bd7e",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=KlhbV-Ts0zc",
+      "title": "Диско-кактус",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 116000,
+      "score": 1.0,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-ee87597446",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=b9hHtarJuLQ",
+      "title": "Диско-кактус",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 116000,
+      "score": 1.0,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-6ed8f30d6e",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/slavakpss10776/disko-kaktus-1",
+      "title": "Диско-кактус",
+      "artist": "",
+      "uploader": "Слава КПСС",
+      "durationMs": 115000,
+      "score": 0.999,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-a2be6d4c10",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/vanya-800250277/slava-kpss-disko-kaktus",
+      "title": "СЛАВА КПСС - ДИСКО-КАКТУС",
+      "artist": "",
+      "uploader": "МС Белгород",
+      "durationMs": 114000,
+      "score": 0.901,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-fb723fe33b",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=m6dLIzGAi-w",
+      "title": "Слава КПСС – Диско-кактус",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 116000,
+      "score": 0.899,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-b63ebe7ff0",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/superpechenka/slava-kpss-disko-kaktus-1",
+      "title": "Слава КПСС - Диско-Кактус",
+      "artist": "",
+      "uploader": "superpechenka",
+      "durationMs": 121000,
+      "score": 0.876,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-888c6f4c56",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=_94axqXBnB8",
+      "title": "Слава КПСС - Диско-кактус • КАРАОКЕ",
+      "artist": "",
+      "uploader": "KARAOKE BALKA",
+      "durationMs": 116000,
+      "score": 0.828,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-f45b866dcd",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=vQ1icYnwCbs",
+      "title": "СЛАВА КПСС — Диско-кактус / Сад Меньшикова",
+      "artist": "",
+      "uploader": "THEPCTR",
+      "durationMs": 112000,
+      "score": 0.773,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-0c710884dd",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=AiZwIb4zH9s",
+      "title": "СЛАВА КПСС — ДИСКО-КАКТУС / 03.12.22",
+      "artist": "",
+      "uploader": "THEPCTR",
+      "durationMs": 109000,
+      "score": 0.746,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-3156a0f685",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=j6wdkmhiAiE",
+      "title": "Слава КПСС - Диско-кактус (14.04.2024)",
+      "artist": "",
+      "uploader": "Tatsuya_S",
+      "durationMs": 123000,
+      "score": 0.74,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-e88cbd1318",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=8mBpaTuCkjM",
+      "title": "Слава КПСС - Диско-кактус (22.07.2023)",
+      "artist": "",
+      "uploader": "Tatsuya_S",
+      "durationMs": 125000,
+      "score": 0.739,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 9 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-69888d77d0",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=-h7tvo8BDKg",
+      "title": "СЛАВА КПСС — ДИСКО-КАКТУС / СПб 07.04.24",
+      "artist": "",
+      "uploader": "THEPCTR",
+      "durationMs": 113000,
+      "score": 0.721,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
