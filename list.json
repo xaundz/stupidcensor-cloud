@@ -629,7 +629,31 @@
       },
       "addedAt": "2026-11-13T17:56:19Z",
       "updatedAt": "2026-11-13T17:56:19Z"
+    },
+    "86505313": {
+      "trackId": "86505313",
+      "title": "На****ло",
+      "artists": [
+        "ЗАМАЙ",
+        "Слава КПСС"
+      ],
+      "durationMs": 151789,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/86505313-28d74eaf-aed3-4e54-84e3-b30e2e7e1112-02956ef6679b4a09ad597c556f284629.m4a",
+      "assetName": "86505313-28d74eaf-aed3-4e54-84e3-b30e2e7e1112-02956ef6679b4a09ad597c556f284629.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/filthdirtklib3rt/nakhapalo-kpsszamay",
+        "title": "На****ло",
+        "artist": "ЗАМАЙ, Слава КПСС",
+        "uploader": "filthdirtklib3rt",
+        "durationMs": 151789,
+        "manual": true
+      },
+      "addedAt": "2026-11-15T10:51:54Z",
+      "updatedAt": "2026-11-15T10:51:54Z"
     }
   },
-  "updatedAt": "2026-11-13T17:56:19Z"
+  "updatedAt": "2026-11-15T10:51:54Z"
 }
