@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "723cef27-0e06-4dc0-8246-9e0cc116b64e",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "107970511",
@@ -10,9 +10,192 @@
   "trackArtist": "Слава КПСС",
   "trackDurationMs": 161000,
   "createdAt": "2026-11-16T14:56:02Z",
-  "updatedAt": "2026-11-16T14:56:02Z",
-  "expiresAt": "2026-11-23T14:56:02Z",
+  "updatedAt": "2026-11-16T14:56:13Z",
+  "expiresAt": "2026-11-23T14:56:13Z",
   "etaSeconds": 45,
   "startedAt": "2026-11-16T14:56:02Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/43890951921"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/43890951921",
+  "candidates": [
+    {
+      "id": "cand-0f4b16096a",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/slavakpss10776/zakalka-1",
+      "title": "Закалка",
+      "artist": "",
+      "uploader": "Слава КПСС",
+      "durationMs": 161000,
+      "score": 1.0,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-7816bd8537",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=1uUWA20zXjI",
+      "title": "Закалка",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 162000,
+      "score": 0.999,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-4f54c17e35",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=WLzuvsAeFkU",
+      "title": "Закалка",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 162000,
+      "score": 0.999,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-3a19011675",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/vanya-800250277/slava-kpss-zakalka",
+      "title": "СЛАВА КПСС - ЗАКАЛКА",
+      "artist": "",
+      "uploader": "МС Белгород",
+      "durationMs": 159000,
+      "score": 0.902,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-7bc8b96263",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=y96fHV2Ho9w",
+      "title": "Слава КПСС – Закалка",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 162000,
+      "score": 0.899,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-93f0fa499b",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/superpechenka/slava-kpss-zakalka-2",
+      "title": "Слава КПСС - Закалка",
+      "artist": "",
+      "uploader": "superpechenka",
+      "durationMs": 170000,
+      "score": 0.874,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 9 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-85ff99aa26",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/unknown-565852452/zakalka",
+      "title": "Закалка",
+      "artist": "",
+      "uploader": "Unknown",
+      "durationMs": 170000,
+      "score": 0.874,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "длительность отличается на 9 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-a533d064aa",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=GCDJfJFxSIQ",
+      "title": "Слава КПСС - Закалка | караоке | минус | инструментал",
+      "artist": "",
+      "uploader": "УДОМЛЯ",
+      "durationMs": 163000,
+      "score": 0.738,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-343355386a",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=XZfYzhyPL14",
+      "title": "Созависимая сука",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 166000,
+      "score": 0.654,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-7051993854",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=tY-r09eLqcM",
+      "title": "Слава КПСС - Кайфоград (Summer Music Video 2024)",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 176000,
+      "score": 0.601,
+      "warnings": [
+        "длительность отличается на 15 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-a738bfeaeb",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/seregapiraaat/eto-pank-rok-feat-slava-kpss",
+      "title": "это панк рок (feat. Слава КПСС)",
+      "artist": "",
+      "uploader": "СЕРЕГА ПИРАТ",
+      "durationMs": 152000,
+      "score": 0.539,
+      "warnings": [
+        "длительность отличается на 9 с",
+        "слабое совпадение названия",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-99024534d5",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/jettrec/selfkharm-feat-slava-kpss",
+      "title": "Сэлфхарм (feat. Слава КПСС)",
+      "artist": "",
+      "uploader": "CMH",
+      "durationMs": 153000,
+      "score": 0.532,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "слабое совпадение названия",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
