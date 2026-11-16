@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "afcc34b9-96f1-43dc-afa4-7f801eb5b3a4",
+  "action": "confirm",
+  "status": "running",
+  "repo": "xaundz/stupidcensor-cloud",
+  "branch": "main",
+  "trackId": "107970521",
+  "trackTitle": "Hollywood",
+  "trackArtist": "Слава КПСС",
+  "trackDurationMs": 300000,
+  "createdAt": "2026-11-16T16:06:01Z",
+  "updatedAt": "2026-11-16T16:06:01Z",
+  "expiresAt": "2026-11-23T16:06:01Z",
+  "etaSeconds": 75,
+  "startedAt": "2026-11-16T16:06:01Z",
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/43903563263"
+}
