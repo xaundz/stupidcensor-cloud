@@ -680,7 +680,35 @@
       },
       "addedAt": "2026-11-16T15:01:19Z",
       "updatedAt": "2026-11-16T15:01:19Z"
+    },
+    "107970539": {
+      "trackId": "107970539",
+      "title": "Супервсратый движ",
+      "artists": [
+        "Слава КПСС",
+        "Мэйби Хмурый"
+      ],
+      "durationMs": 198000,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/107970539-04c60ff1-da1a-431c-b78e-67bec785943e-77eb9f1d752a44c7bb232b4c6213a327.m4a",
+      "assetName": "107970539-04c60ff1-da1a-431c-b78e-67bec785943e-77eb9f1d752a44c7bb232b4c6213a327.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/vanya-800250277/slava-kpss-mejbi-xmuryj-1",
+        "title": "СЛАВА КПСС, МЭЙБИ ХМУРЫЙ - СУПЕРВСРАТЫЙ ДВИЖ",
+        "artist": "",
+        "uploader": "МС Белгород",
+        "durationMs": 198000,
+        "score": 0.906,
+        "warnings": [
+          "автор загрузившего не совпадает",
+          "автоматическая проверка не гарантирует отсутствие цензуры"
+        ]
+      },
+      "addedAt": "2026-11-16T15:03:49Z",
+      "updatedAt": "2026-11-16T15:03:49Z"
     }
   },
-  "updatedAt": "2026-11-16T15:01:19Z"
+  "updatedAt": "2026-11-16T15:03:49Z"
 }
