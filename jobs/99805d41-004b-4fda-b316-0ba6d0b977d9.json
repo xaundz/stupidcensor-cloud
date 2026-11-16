@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "99805d41-004b-4fda-b316-0ba6d0b977d9",
   "action": "confirm",
-  "status": "running",
+  "status": "published",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "107970511",
@@ -10,9 +10,15 @@
   "trackArtist": "Слава КПСС",
   "trackDurationMs": 159000,
   "createdAt": "2026-11-16T15:01:10Z",
-  "updatedAt": "2026-11-16T15:01:10Z",
-  "expiresAt": "2026-11-23T15:01:10Z",
+  "updatedAt": "2026-11-16T15:01:20Z",
+  "expiresAt": "2026-11-23T15:01:20Z",
   "etaSeconds": 75,
   "startedAt": "2026-11-16T15:01:10Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/43891718929"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/43891718929",
+  "published": {
+    "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/107970511-99805d41-004b-4fda-b316-0ba6d0b977d9-381bdf757db84d1ca72ca3492cf0b017.m4a",
+    "assetName": "107970511-99805d41-004b-4fda-b316-0ba6d0b977d9-381bdf757db84d1ca72ca3492cf0b017.m4a"
+  },
+  "candidateId": "cand-3a19011675",
+  "sourceJobId": "723cef27-0e06-4dc0-8246-9e0cc116b64e"
 }
