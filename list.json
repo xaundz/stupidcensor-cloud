@@ -653,7 +653,34 @@
       },
       "addedAt": "2026-11-15T10:51:54Z",
       "updatedAt": "2026-11-15T10:51:54Z"
+    },
+    "107970511": {
+      "trackId": "107970511",
+      "title": "Закалка",
+      "artists": [
+        "Слава КПСС"
+      ],
+      "durationMs": 159000,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/107970511-99805d41-004b-4fda-b316-0ba6d0b977d9-381bdf757db84d1ca72ca3492cf0b017.m4a",
+      "assetName": "107970511-99805d41-004b-4fda-b316-0ba6d0b977d9-381bdf757db84d1ca72ca3492cf0b017.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/vanya-800250277/slava-kpss-zakalka",
+        "title": "СЛАВА КПСС - ЗАКАЛКА",
+        "artist": "",
+        "uploader": "МС Белгород",
+        "durationMs": 159000,
+        "score": 0.902,
+        "warnings": [
+          "автор загрузившего не совпадает",
+          "автоматическая проверка не гарантирует отсутствие цензуры"
+        ]
+      },
+      "addedAt": "2026-11-16T15:01:19Z",
+      "updatedAt": "2026-11-16T15:01:19Z"
     }
   },
-  "updatedAt": "2026-11-15T10:51:54Z"
+  "updatedAt": "2026-11-16T15:01:19Z"
 }
