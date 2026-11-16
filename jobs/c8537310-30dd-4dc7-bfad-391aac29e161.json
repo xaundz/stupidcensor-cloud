@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "c8537310-30dd-4dc7-bfad-391aac29e161",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "107970525",
@@ -10,9 +10,195 @@
   "trackArtist": "Слава КПСС",
   "trackDurationMs": 153000,
   "createdAt": "2026-11-16T16:19:46Z",
-  "updatedAt": "2026-11-16T16:19:46Z",
-  "expiresAt": "2026-11-23T16:19:46Z",
+  "updatedAt": "2026-11-16T16:19:53Z",
+  "expiresAt": "2026-11-23T16:19:53Z",
   "etaSeconds": 45,
   "startedAt": "2026-11-16T16:19:46Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/43906195672"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/43906195672",
+  "candidates": [
+    {
+      "id": "cand-428c15026b",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=vvrrvmOU4hI",
+      "title": "НЕ РАБОТАЙ НА ДЯДЮ",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 153000,
+      "score": 1.0,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-8e1a9adda8",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=u6x2ujAqgpI",
+      "title": "НЕ РАБОТАЙ НА ДЯДЮ",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 153000,
+      "score": 1.0,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-6892aba7b1",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/slavakpss10776/ne-rabotaj-na-dyadyu-1",
+      "title": "НЕ РАБОТАЙ НА ДЯДЮ",
+      "artist": "",
+      "uploader": "Слава КПСС",
+      "durationMs": 152000,
+      "score": 0.999,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-4212a0ddcd",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/vanya-800250277/slava-kpss-ne-rabotaj-na",
+      "title": "СЛАВА КПСС - НЕ РАБОТАЙ НА ДЯДЮ",
+      "artist": "",
+      "uploader": "МС Белгород",
+      "durationMs": 150000,
+      "score": 0.901,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-4c7b9ecd04",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=E_4I42uaJnc",
+      "title": "Слава КПСС – НЕ РАБОТАЙ НА ДЯДЮ",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 153000,
+      "score": 0.899,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-b239d03bbc",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=_Ha0_O2NYBQ",
+      "title": "Слава КПСС - Не Работай На Дядю (Slowed + Reverb)",
+      "artist": "",
+      "uploader": "Jack De Gree",
+      "durationMs": 172000,
+      "score": 0.8,
+      "warnings": [
+        "изменён темп или обработка",
+        "автор загрузившего не совпадает",
+        "длительность отличается на 19 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-1f91509787",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=qhGlXHASeIw",
+      "title": "My Little Pony клип под трек НЕ РАБОТАЙ НА ДЯДЮ (Слава КПСС).",
+      "artist": "",
+      "uploader": "GGreshnik",
+      "durationMs": 153000,
+      "score": 0.724,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-81f2d8a513",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=hhM_luig6P4",
+      "title": "Ленинград",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 140000,
+      "score": 0.613,
+      "warnings": [
+        "длительность отличается на 13 с",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-9c71dd9b16",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=1dBomQzgKL8",
+      "title": "10 НОВЫХ",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 153000,
+      "score": 0.545,
+      "warnings": [
+        "слабое совпадение названия",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-930d07fe0f",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=9giPIJAlZFc",
+      "title": "Слава КПСС - Обезбол (slowed+reverb)",
+      "artist": "",
+      "uploader": "пол пятого",
+      "durationMs": 161000,
+      "score": 0.54,
+      "warnings": [
+        "изменён темп или обработка",
+        "слабое совпадение названия",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-6244019760",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=RMiUiLwE43g",
+      "title": "Слава КПСС - Я убью себя (караоке)",
+      "artist": "",
+      "uploader": "Indie Karaoke Channel",
+      "durationMs": 163000,
+      "score": 0.524,
+      "warnings": [
+        "инструментальная версия",
+        "автор загрузившего не совпадает",
+        "длительность отличается на 10 с",
+        "слабое совпадение названия",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-f281b3ab2a",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=nZVnQno3TCU",
+      "title": "СЛАВА КПСС - КТО ВИНОВАТ? (LARL DISS)",
+      "artist": "",
+      "uploader": "Team Spirit",
+      "durationMs": 153000,
+      "score": 0.469,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "слабое совпадение названия",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
