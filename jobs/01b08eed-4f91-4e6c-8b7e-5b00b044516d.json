@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "01b08eed-4f91-4e6c-8b7e-5b00b044516d",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "107970539",
@@ -10,9 +10,87 @@
   "trackArtist": "Слава КПСС, Мэйби Хмурый",
   "trackDurationMs": 201000,
   "createdAt": "2026-11-16T15:00:05Z",
-  "updatedAt": "2026-11-16T15:00:05Z",
-  "expiresAt": "2026-11-23T15:00:05Z",
+  "updatedAt": "2026-11-16T15:00:13Z",
+  "expiresAt": "2026-11-23T15:00:13Z",
   "etaSeconds": 45,
   "startedAt": "2026-11-16T15:00:05Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/43891670763"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/43891670763",
+  "candidates": [
+    {
+      "id": "cand-81cde9d910",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=f9doNznfPvU",
+      "title": "Супервсратый движ",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 201000,
+      "score": 0.976,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-a8f5f2f0d2",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=la46AadHalg",
+      "title": "Супервсратый движ",
+      "artist": "",
+      "uploader": "СЛАВА КПСС",
+      "durationMs": 201000,
+      "score": 0.976,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-e788491f54",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/slavakpss10776/supervsratyj-dvizh-feat-1",
+      "title": "Супервсратый движ (feat. Мэйби Хмурый)",
+      "artist": "",
+      "uploader": "Слава КПСС",
+      "durationMs": 200000,
+      "score": 0.931,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true,
+      "unavailable": true,
+      "unavailableReason": "DRM-защита: SoundCloud не отдаёт этот трек для скачивания"
+    },
+    {
+      "id": "cand-70c09c7f47",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/vanya-800250277/slava-kpss-mejbi-xmuryj-1",
+      "title": "СЛАВА КПСС, МЭЙБИ ХМУРЫЙ - СУПЕРВСРАТЫЙ ДВИЖ",
+      "artist": "",
+      "uploader": "МС Белгород",
+      "durationMs": 197000,
+      "score": 0.906,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-064af711df",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=fr9cxSwLdbw",
+      "title": "Слава КПСС – Супервсратый движ",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 201000,
+      "score": 0.795,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
