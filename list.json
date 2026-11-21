@@ -762,7 +762,33 @@
       },
       "addedAt": "2026-11-16T16:08:02Z",
       "updatedAt": "2026-11-16T16:08:02Z"
+    },
+    "51076296": {
+      "trackId": "51076296",
+      "title": "Не интеллектуал",
+      "artists": [
+        "1.Kla$"
+      ],
+      "durationMs": 204000,
+      "enabled": true,
+      "audioUrl": "https://github.com/xaundz/stupidcensor-cloud/releases/download/library/51076296-1d6b1493-5f07-4aa2-8cb2-a10d93bb209f-0d43eb686d51413ba5c01da2c2553f8b.m4a",
+      "assetName": "51076296-1d6b1493-5f07-4aa2-8cb2-a10d93bb209f-0d43eb686d51413ba5c01da2c2553f8b.m4a",
+      "releaseTag": "library",
+      "source": {
+        "provider": "soundcloud",
+        "pageUrl": "https://soundcloud.com/user-255132420/1-kla-ne-intellektual",
+        "title": "1.Kla$ - Не Интеллектуал",
+        "artist": "",
+        "uploader": "1.kla$",
+        "durationMs": 204000,
+        "score": 0.999,
+        "warnings": [
+          "автоматическая проверка не гарантирует отсутствие цензуры"
+        ]
+      },
+      "addedAt": "2026-11-21T09:05:30Z",
+      "updatedAt": "2026-11-21T09:05:30Z"
     }
   },
-  "updatedAt": "2026-11-16T16:08:02Z"
+  "updatedAt": "2026-11-21T09:05:30Z"
 }
