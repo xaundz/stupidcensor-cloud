@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "85e062f4-de32-4864-849f-73138a8a2685",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "51076296",
@@ -10,9 +10,186 @@
   "trackArtist": "1.Kla$",
   "trackDurationMs": 206000,
   "createdAt": "2026-11-21T09:00:24Z",
-  "updatedAt": "2026-11-21T09:00:24Z",
-  "expiresAt": "2026-11-28T09:00:24Z",
+  "updatedAt": "2026-11-21T09:00:34Z",
+  "expiresAt": "2026-11-28T09:00:34Z",
   "etaSeconds": 45,
   "startedAt": "2026-11-21T09:00:24Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/44887464765"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/44887464765",
+  "candidates": [
+    {
+      "id": "cand-30e226b93c",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=oERvi1gAmlA",
+      "title": "Не интеллектуал",
+      "artist": "",
+      "uploader": "1.Kla$",
+      "durationMs": 207000,
+      "score": 1.0,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-5665180b1e",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-255132420/1-kla-ne-intellektual",
+      "title": "1.Kla$ - Не Интеллектуал",
+      "artist": "",
+      "uploader": "1.kla$",
+      "durationMs": 204000,
+      "score": 0.999,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-7b6f5970e3",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-520068811/1kla-ne-intellektual",
+      "title": "1.Kla$ - Не Интеллектуал",
+      "artist": "",
+      "uploader": "slowly_decaying",
+      "durationMs": 206000,
+      "score": 0.904,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-efe5a296f7",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/user-561807329/1kla-ne-intellektual",
+      "title": "1.Kla$ - Не Интеллектуал",
+      "artist": "",
+      "uploader": "Russian Rap Game",
+      "durationMs": 206000,
+      "score": 0.903,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-63250c845a",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/acidmind7/1kla-ne-intellektual",
+      "title": "1.Kla$ - Не Интеллектуал",
+      "artist": "",
+      "uploader": "Acid Mind",
+      "durationMs": 206000,
+      "score": 0.897,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-a2b2381b49",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/artem-exzon-121005938/1kla-ne-intellektual",
+      "title": "1.Kla$ - Не Интеллектуал",
+      "artist": "",
+      "uploader": "Artem Exzon",
+      "durationMs": 206000,
+      "score": 0.895,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-87e526505f",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=gJ_bM3jd2S0",
+      "title": "1.Kla$ - Не интеллектуал",
+      "artist": "",
+      "uploader": "Yahont Project",
+      "durationMs": 207000,
+      "score": 0.892,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-14c05274f8",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=iehFNRybmp8",
+      "title": "1.kla$ – Не Интеллектуал",
+      "artist": "",
+      "uploader": "Tero",
+      "durationMs": 208000,
+      "score": 0.879,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-15ea03cc16",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/t1e9yee7bf34/1kla-ne-intellektual",
+      "title": "1Kla$ - Не Интеллектуал",
+      "artist": "",
+      "uploader": "WooDoo",
+      "durationMs": 206000,
+      "score": 0.861,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-155f41efb1",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=Yf8JBuMweWI",
+      "title": "1.KLA$ - Не интеллектуал (2019)",
+      "artist": "",
+      "uploader": "rapwoyska latvia",
+      "durationMs": 207000,
+      "score": 0.851,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-59e53029cc",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=L--1-D2MxUE",
+      "title": "1.Kla$ - Не интеллектуал ( 2019 )",
+      "artist": "",
+      "uploader": "Russian Rap",
+      "durationMs": 208000,
+      "score": 0.847,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    },
+    {
+      "id": "cand-8bbbbe8c83",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=j2YaZVCaUOI",
+      "title": "1.Kla$ - Не Интеллектуал (2019)",
+      "artist": "",
+      "uploader": "NegaTiv Live",
+      "durationMs": 207000,
+      "score": 0.845,
+      "warnings": [
+        "концертная запись",
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ]
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
