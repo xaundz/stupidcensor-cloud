@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "321225bf-8641-4db9-9b8f-f6acbf7846c4",
+  "action": "search",
+  "status": "running",
+  "repo": "xaundz/stupidcensor-cloud",
+  "branch": "main",
+  "trackId": "93453296",
+  "trackTitle": "Scally Milano",
+  "trackArtist": "Воровская лапа, Глеб Минёхин",
+  "trackDurationMs": 123000,
+  "createdAt": "2026-11-25T09:08:38Z",
+  "updatedAt": "2026-11-25T09:08:38Z",
+  "expiresAt": "2026-12-02T09:08:38Z",
+  "etaSeconds": 45,
+  "startedAt": "2026-11-25T09:08:38Z",
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/45582561124"
+}
