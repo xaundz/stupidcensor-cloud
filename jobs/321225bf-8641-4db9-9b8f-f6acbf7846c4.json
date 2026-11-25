@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "321225bf-8641-4db9-9b8f-f6acbf7846c4",
   "action": "search",
-  "status": "running",
+  "status": "ready",
   "repo": "xaundz/stupidcensor-cloud",
   "branch": "main",
   "trackId": "93453296",
@@ -10,9 +10,71 @@
   "trackArtist": "Воровская лапа, Глеб Минёхин",
   "trackDurationMs": 123000,
   "createdAt": "2026-11-25T09:08:38Z",
-  "updatedAt": "2026-11-25T09:08:38Z",
-  "expiresAt": "2026-12-02T09:08:38Z",
+  "updatedAt": "2026-11-25T09:08:43Z",
+  "expiresAt": "2026-12-02T09:08:43Z",
   "etaSeconds": 45,
   "startedAt": "2026-11-25T09:08:38Z",
-  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/45582561124"
+  "runUrl": "https://github.com/xaundz/stupidcensor-cloud/actions/runs/45582561124",
+  "candidates": [
+    {
+      "id": "cand-fca9ac3d63",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=IEIjULoPxKs",
+      "title": "Scally Milano",
+      "artist": "",
+      "uploader": "Воровская лапа - Topic",
+      "durationMs": 124000,
+      "score": 0.956,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-2055d220e3",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=8Ih4YDlljXc",
+      "title": "Scally Milano",
+      "artist": "",
+      "uploader": "Воровская лапа - Topic",
+      "durationMs": 124000,
+      "score": 0.956,
+      "warnings": [
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-c187260286",
+      "provider": "soundcloud",
+      "pageUrl": "https://soundcloud.com/bigbangersupernova/vorovskaia-lapa-feat-gleb-miniokhin-scally-milano-3",
+      "title": "Воровская лапа feat Глеб Минёхин - Scally Milano",
+      "artist": "",
+      "uploader": "BigBangerSupernova",
+      "durationMs": 123000,
+      "score": 0.835,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    },
+    {
+      "id": "cand-2e071ada49",
+      "provider": "youtube",
+      "pageUrl": "https://www.youtube.com/watch?v=qGmpRLMbK7k",
+      "title": "Scally Milano – Воровская лапа",
+      "artist": "",
+      "uploader": "Олег Овощенский",
+      "durationMs": 123000,
+      "score": 0.805,
+      "warnings": [
+        "автор загрузившего не совпадает",
+        "автоматическая проверка не гарантирует отсутствие цензуры"
+      ],
+      "probed": true
+    }
+  ],
+  "warnings": [],
+  "note": ""
 }
